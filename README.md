@@ -1,117 +1,158 @@
-# 🔥 RAG Benchmarking System (10 RAG Variants)
+# 🚀 RAG Benchmarking & Agentic Multimodal RAG System (12 Variants)
 
-This project implements and evaluates multiple Retrieval-Augmented Generation (RAG) techniques on a single dataset using a local LLM.
-
-## Full-Stack Layout
-
-- `backend/` - FastAPI API layer (upload + query endpoints)
-- `frontend/` - React (Vite) client
-- `src/` - Core RAG engine and evaluation pipelines
-- `data/` - Source and uploaded PDFs
-- `db/` - Chroma persisted vector store
-
-### Run Full-Stack App
-
-1. Backend:
-
-```bash
-uvicorn backend.main:app --reload --port 8000
-```
-
-2. Frontend:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-3. Open UI at `http://localhost:5173`
+🚀 Built with 12 RAG variants | Multimodal | Agentic | Local LLM | Full-stack deployment
 
 ---
 
 ## 🧠 Objective
 
-To compare different RAG strategies based on:
+This project implements and evaluates **12 different Retrieval-Augmented Generation (RAG) techniques** using a **local LLM setup**, and integrates them into a **full-stack application (FastAPI + React)**.
 
-- Retrieval Quality
-- Answer Accuracy
-- Faithfulness (no hallucination)
-- Latency (performance)
+The goal is to understand:
 
----
-
-## 📊 Implemented RAG Types
-
-1. Simple RAG
-2. HyDE RAG
-3. Multi-Query RAG
-4. Fusion RAG
-5. Contextual RAG
-6. Self-Query RAG
-7. Re-ranking RAG
-8. Agentic RAG
-9. Graph RAG
-10. Adaptive RAG
+- 📌 Retrieval Quality  
+- 📌 Answer Accuracy  
+- 📌 Faithfulness (hallucination reduction)  
+- 📌 Latency & performance trade-offs  
 
 ---
 
-## 🏗️ Project Structure
-rag-system/
+## 🏗️ Full-Stack Architecture
+
+
+React Frontend → FastAPI Backend → RAG Engine (src/) → LLM + Vector DB
+
+
+---
+
+## 📁 Project Structure
+
+
+RAG_PROJECT/
 │
-├── data/ # Input PDFs
-├── db/ # ChromaDB
-├── evaluation/
-│ ├── dataset.json # Questions + ground truth
-│ ├── results/ # Outputs per RAG type
-│ └── scores/ # RAGAS evaluation scores
-│
-├── src/
+├── backend/ # FastAPI API (upload + query)
+├── frontend/ # React (Vite) UI
+├── src/ # Core RAG engine
 │ ├── core/ # Shared components
-│ ├── rag_types/ # RAG implementations
+│ ├── rag_types/ # All RAG implementations
 │ ├── pipelines/ # Execution scripts
-│ └── evaluation/ # Evaluation scripts
+│ └── evaluation/ # Evaluation logic
 │
+├── data/ # Input & uploaded PDFs
+├── db/ # Chroma vector store
+├── final_evaluation/ # Results + scores
 ├── requirements.txt
 └── README.md
 
 
 ---
 
-## ⚙️ Setup
+## 📊 Implemented RAG Techniques (12 Variants)
 
-### 1. Install dependencies
+### 🔹 Core
+- Simple RAG  
+
+### 🔹 Query Enhancement
+- HyDE RAG  
+- Multi-Query RAG  
+
+### 🔹 Retrieval Optimization
+- Fusion RAG (Hybrid search)  
+- Re-ranking RAG  
+
+### 🔹 Context-Aware Systems
+- Contextual RAG  
+- Self RAG  
+
+### 🔹 Advanced Reasoning
+- Agentic RAG  
+- Adaptive RAG  
+
+### 🔹 Specialized Architectures
+- Graph RAG  
+- Memo RAG  
+
+### 🔹 Multimodal Capability
+- Multimodal RAG (text + tables + images)
+
+---
+
+## ⚙️ Tech Stack
+
+### 🔹 Backend
+- FastAPI  
+- LangChain  
+- ChromaDB  
+
+### 🔹 Frontend
+- React (Vite)  
+
+### 🔹 Models
+- Ollama (local LLM)
+- qwen2.5 (generation)
+- all-MiniLM-L6-v2 / nomic-embed-text (embeddings)
+
+### 🔹 Document Processing
+- Unstructured  
+- PyMuPDF  
+- Camelot (tables)  
+- BLIP (image captions)
+
+---
+
+## 🚀 Run Full-Stack Application
+
+### 🟦 Backend
 
 ```bash
-pip install -r requirements.txt
+uvicorn backend.main:app --reload --port 8000
+🟩 Frontend
+cd frontend
+npm install
+npm run dev
 
+👉 Open UI:
 
-2. Start Ollama
-ollama serve
-3. Pull models
-ollama pull qwen2.5:3b-instruct
-ollama pull nomic-embed-text
-🚀 Running the Pipeline
-Run Simple RAG
-python src/pipelines/run_simple.py
-Run HyDE RAG
-python src/pipelines/run_hyde.py
-Evaluate with RAGAS
+http://localhost:5173
+📥 How It Works
+1. Upload PDF
+Extracts:
+Text
+Tables
+Images
+2. Processing Pipeline
+PDF → Chunking → Embedding → Vector DB
+3. Query Flow
+User Query → Agentic Routing → Retrieval → Reranking → LLM → Answer
+📊 Evaluation Framework
+Metrics Used
+✅ Faithfulness
+✅ Answer Relevancy
+✅ Context Precision
+✅ Latency
+Run Evaluation
 python src/evaluation/ragas_eval.py
-📊 Metrics Used
-Faithfulness (hallucination detection)
-Answer Relevancy
-Context Precision
-Latency
 🧠 Key Insights
-Better retrieval ≠ better answers
-Context quality is more important than quantity
-Advanced RAG improves reasoning but increases latency
-🚀 Future Improvements
-Add re-ranking models (CrossEncoder)
-Add Streamlit dashboard
-Add hybrid search (BM25 + vector)
-Optimize chunking strategies
+🔥 Better retrieval ≠ better answers
+🔥 Context quality matters more than quantity
+🔥 Advanced RAG improves reasoning but increases latency
+🔥 Multimodal handling improves real-world performance
+🚀 Final System
+
+This project culminates in:
+
+Agentic Multimodal Hybrid RAG System
+
+✔ Combines multiple RAG strategies
+✔ Handles complex PDFs (tables + images)
+✔ Uses intelligent routing
+✔ Fully deployed as a full-stack application
+🔮 Future Improvements
+Add CrossEncoder re-ranking
+Improve chunking strategies
+Integrate LangGraph agents
+Enhance multimodal reasoning
+Deploy using Docker / cloud
 👩‍💻 Author
 
 Sanjukta Mukherjee
@@ -119,11 +160,7 @@ BTech CSE | AI/ML Enthusiast
 
 ⭐ Notes
 
-This project is designed as a research + engineering system to understand real-world RAG performance trade-offs.
+This project is designed as both:
 
-
----
-
-
-
-
+🧠 Research system (RAG comparison)
+⚙️ Engineering system (production-ready application)
