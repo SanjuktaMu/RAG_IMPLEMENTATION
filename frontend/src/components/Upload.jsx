@@ -17,11 +17,11 @@ export default function Upload({ onUploaded }) {
 
     try {
       const result = await uploadFile(selectedFile);
-      const successMessage = result?.message || "Upload and processing complete.";
-      setMessage(successMessage);
+      setMessage("✅ Document processed successfully!");
       onUploaded?.(result);
     } catch (error) {
-      const errMessage = error?.response?.data?.detail || error.message || "Upload failed";
+      const errMessage =
+        error?.response?.data?.detail || error.message || "Upload failed";
       setMessage(errMessage);
     } finally {
       setLoading(false);
@@ -29,16 +29,21 @@ export default function Upload({ onUploaded }) {
   }
 
   return (
-    <section className="card">
-      <h2>Upload PDF</h2>
-      <input
-        type="file"
-        accept=".pdf,application/pdf"
-        onChange={(event) => setSelectedFile(event.target.files?.[0] || null)}
-      />
-      <button onClick={handleUpload} disabled={loading}>
-        {loading ? "Processing..." : "Upload & Process"}
-      </button>
+    <section className="card upload-card">
+      <h2>📤 Upload Document</h2>
+
+      <div className="upload-row">
+        <input
+          type="file"
+          accept=".pdf,application/pdf"
+          onChange={(e) => setSelectedFile(e.target.files?.[0] || null)}
+        />
+
+        <button onClick={handleUpload} disabled={loading}>
+          {loading ? "Processing..." : "Upload & Analyze"}
+        </button>
+      </div>
+
       {message && <p className="status">{message}</p>}
     </section>
   );

@@ -4,36 +4,32 @@ import Chat from "./components/Chat";
 import { healthCheck } from "./services/api";
 
 export default function App() {
-  const [backendStatus, setBackendStatus] = useState("Checking backend...");
+  const [backendStatus, setBackendStatus] = useState("Checking...");
 
   useEffect(() => {
-    let mounted = true;
-
     async function check() {
       try {
         const result = await healthCheck();
-        if (mounted) {
-          setBackendStatus(result?.status === "ok" ? "Backend: online" : "Backend: unknown");
-        }
+        setBackendStatus(result?.status === "ok" ? "🟢 Online" : "⚠️ Unknown");
       } catch {
-        if (mounted) {
-          setBackendStatus("Backend: offline");
-        }
+        setBackendStatus("🔴 Offline");
       }
     }
-
     check();
-    return () => {
-      mounted = false;
-    };
   }, []);
 
   return (
     <main className="app-shell">
-      <header>
-        <h1>RAG Full Stack Interface</h1>
-        <p>{backendStatus}</p>
+      <header className="header">
+        <div>
+          <h1>📄 Intelligent Document Assistant</h1>
+          <p className="subtitle">
+            Ask questions from PDFs using advanced RAG pipelines
+          </p>
+        </div>
+        <span className="status-badge">{backendStatus}</span>
       </header>
+
       <Upload />
       <Chat />
     </main>

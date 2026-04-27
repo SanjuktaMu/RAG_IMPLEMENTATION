@@ -19,50 +19,63 @@ export default function Chat() {
     try {
       const result = await askQuestion(cleanQuestion);
       setLatestResult(result);
-      setMessages((prev) => [...prev, { role: "assistant", content: result.answer || "" }]);
+      setMessages((prev) => [
+        ...prev,
+        { role: "assistant", content: result.answer || "Not found in document" },
+      ]);
     } catch (error) {
-      const errMessage = error?.response?.data?.detail || error.message || "Query failed";
-      setMessages((prev) => [...prev, { role: "assistant", content: `Error: ${errMessage}` }]);
+      const errMessage =
+        error?.response?.data?.detail || error.message || "Query failed";
+      setMessages((prev) => [
+        ...prev,
+        { role: "assistant", content: `Error: ${errMessage}` },
+      ]);
       setLatestResult(null);
     } finally {
       setLoading(false);
     }
   }
 
-  function onEnter(event) {
-    if (event.key === "Enter" && !event.shiftKey) {
-      event.preventDefault();
+  function onEnter(e) {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
       handleAsk();
     }
   }
 
   return (
-    <section className="card">
-      <h2>Chat</h2>
+    <section className="card chat-card">
+      <h2>💬 Ask Questions</h2>
+
       <div className="chat-box">
-        {messages.length === 0 && <p className="muted">Ask a question after uploading a PDF.</p>}
-        {messages.map((msg, index) => (
-          <Message key={`${msg.role}-${index}`} role={msg.role} content={msg.content} />
+        {messages.length === 0 && (
+          <p className="muted">
+            Upload a document and start asking questions ✨
+          </p>
+        )}
+
+        {messages.map((msg, i) => (
+          <Message key={i} role={msg.role} content={msg.content} />
         ))}
       </div>
 
       <div className="chat-input-row">
         <textarea
           value={question}
-          placeholder="Ask a question about the uploaded document"
-          onChange={(event) => setQuestion(event.target.value)}
+          placeholder="Type your question here..."
+          onChange={(e) => setQuestion(e.target.value)}
           onKeyDown={onEnter}
-          rows={3}
+          rows={2}
         />
         <button onClick={handleAsk} disabled={loading}>
-          {loading ? "Thinking..." : "Send"}
+          {loading ? "Thinking..." : "Ask"}
         </button>
       </div>
 
       {latestResult && (
         <div className="result-panel">
-          <h3>Retrieved Context</h3>
-          {(latestResult.context || []).map((chunk, idx) => (
+          <h3>📊 Retrieved Evidence</h3>
+          {(latestResult.context || []).slice(0, 5).map((chunk, idx) => (
             <details key={idx}>
               <summary>Chunk {idx + 1}</summary>
               <pre>{chunk}</pre>
