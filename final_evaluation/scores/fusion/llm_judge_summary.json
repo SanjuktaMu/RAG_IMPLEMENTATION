@@ -1,0 +1,12 @@
+{
+  "file": "fusion_results.json",
+  "total": 31,
+  "correct": 12,
+  "partially_correct": 7,
+  "incorrect": 12,
+  "accuracy": 0.3871,
+  "partial_credit_accuracy": 0.5,
+  "avg_score": 0.5206,
+  "model": "qwen2.5-coder:32b",
+  "base_url": "http://192.168.19.21:11434"
+}

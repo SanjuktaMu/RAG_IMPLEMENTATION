@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 2.8040712000220083,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 16.141681999957655,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 11.091030000010505,
+    "answer": "Mr. Ravi Todi"
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 11.357149499992374,
+    "answer": "Bulk Material Handling, Coal Chemical, Underground Coal Mining, Ash Handling, Power Transmission, Defense, Agrimech, Manufacturing, Special Business, Water Management"
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.799799699976575,
+    "answer": "BTL EPC Limited provides services in mine development and contract mining, utilizing advanced technologies to ensure safe, efficient, and sustainable coal extraction. They also offer bulk material handling systems including conveying equipment, storage solutions, feeding and discharge equipment, and auxiliary systems for sectors such as mining and minerals, power plants, and steel."
+  },
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 5.83509760000743,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "selected_route": "fusion",
+    "selection_reason": "Detected comparison or broad multi-aspect question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 5.394718599971384,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 5.854545600013807,
+    "answer": "Coal India Limited"
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 5.571343199990224,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 5.832344199996442,
+    "answer": "The total employee strength stood at 720."
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.4941744999960065,
+    "answer": "The average employee age is 31 years."
+  },
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.514150100003462,
+    "answer": "5"
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.56409459997667,
+    "answer": "Kolkata (three), Durgapur Steel city (one), Kharagpur (one)"
+  },
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 8.545889600005466,
+    "answer": "78,259.46"
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.647985499992501,
+    "answer": "The profit after tax for FY 2024-25 is H 5,287.20."
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.858589000010397,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.750411599990912,
+    "answer": "The total expenses for FY 2024-25 are H71,340.86 Lacs."
+  },
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.87188440002501,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.5432665999978781,
+    "answer": "57,352.09 (in K)"
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.4698917000205256,
+    "answer": "40,642.21"
+  },
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "selected_route": "graph",
+    "selection_reason": "Detected relationship/structured reasoning intent.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 2.0404301999951713,
+    "answer": "Not found in document only when evidence is truly absent\n\nThe provided context does not explicitly state the differences between financial assets and liabilities. It provides criteria for classifying current and non-current assets and liabilities, as well as details on the recognition and measurement of financial liabilities. However, it does not directly compare or define the differences between financial assets and liabilities."
+  },
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.726755300012883,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.603052000049502,
+    "answer": "The NTPC Pakri project value was H268 Crore."
+  },
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 6.8684628999908455,
+    "answer": "The NTPC Pakri project faced challenges due to international statutory compliances, law-and-order issues, political sensitivities, operational and logistical difficulties, and a critical modification required in the foundation design of TP13A due to unforeseen structural challenges."
+  },
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.3579533000010997,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.33754579996457323,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 7.170728199998848,
+    "answer": "Power, mining, fertiliser, and metal sectors"
+  },
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "selected_route": "simple",
+    "selection_reason": "Detected short/basic definition-style question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 0.28199460002360865,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "selected_route": "fusion",
+    "selection_reason": "Defaulted to broad retrieval for general query.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 7.538290700002108,
+    "answer": "The Company's business model has been validated by profitable growth across more than 10 years. Each time the Company scaled revenues, it generated a superior amortization of fixed expenses, widening margins. As a result, revenue growth now translates into a higher rate of profit accretion. The improvement in business health was driven by larger contracts, upgraded manufacturing, greater in-house production, and disciplined working capital management, which strengthened the foundation for sustainable growth."
+  },
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "selected_route": "fusion",
+    "selection_reason": "Detected comparison or broad multi-aspect question.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 7.174406500009354,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "selected_route": "graph",
+    "selection_reason": "Detected relationship/structured reasoning intent.",
+    "fusion_backend": "multi_query_fallback",
+    "graph_backend": "contextual_fallback",
+    "latency": 1.693005400011316,
+    "answer": "The difference in profit after tax between FY 2023-24 and FY 2024-25 is H 1,627.82 (FY 2024-25 Profit After Tax of H 5,252.78 minus FY 2023-24 Profit After Tax of H 3,691.96)."
+  }
+]

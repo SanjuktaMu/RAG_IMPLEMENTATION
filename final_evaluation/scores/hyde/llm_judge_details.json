@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "answer": "BTL EPC Limited stands among India’s fastest-growing heavy engineering EPC companies, delivering integrated solutions across the core sectors of powering India’s economy. From complex project execution to precision-engineered fabrication, BTL EPC plays a pivotal role in India’s industrial transformation.",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer provides additional information about BTL EPC Limited's role and growth but does not explicitly state that it is an engineering, procurement and construction company in the heavy engineering sector as per the ground truth."
+  },
+  {
+    "id": 2,
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth provides a specific founding year of 1965."
+  },
+  {
+    "id": 3,
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "answer": "Ravi Todi",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly identifies Ravi Todi as the Managing Director of BTL EPC Limited."
+  },
+  {
+    "id": 4,
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "answer": "BTL EPC Limited operates in the power, mining, fertiliser, and metal sectors.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 5,
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "answer": "BTL EPC Limited provides integrated solutions across the core sectors of powering India's economy, including complex project execution and precision-engineered fabrication.",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer mentions some services provided by BTL EPC Limited but does not explicitly state the core services of engineering, procurement, and construction (EPC) as mentioned in the ground truth."
+  },
+  {
+    "id": 6,
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth provides specific marquee clients of BTL EPC Limited."
+  },
+  {
+    "id": 7,
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "answer": "National Thermal Power Corporation",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly identifies National Thermal Power Corporation as India's largest power utility mentioned as a client."
+  },
+  {
+    "id": 8,
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "answer": "Coal India Limited",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly identifies Coal India Limited as the company contributing over 80% of India’s coal output, which matches the ground truth."
+  },
+  {
+    "id": 9,
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document', but the ground truth indicates that Indian Oil Corporation Limited operates across the hydrocarbon value chain, which is not reflected in the retrieved contexts."
+  },
+  {
+    "id": 10,
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "answer": "The total employee strength of the company in FY 2024-25 is 717.",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer provides the number of employees for a specific financial year (FY 2024-25) instead of giving the total employee strength, which is expected to be a single figure representing the current or most recent total."
+  },
+  {
+    "id": 11,
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "answer": "31 years",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 12,
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "answer": "five",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly states the number of manufacturing units in West Bengal as five, which matches the ground truth."
+  },
+  {
+    "id": 13,
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "answer": "The manufacturing units are located in Kolkata (three), Durgapur Steel city (one), and Kharagpur (one).",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually without any discrepancies."
+  },
+  {
+    "id": 14,
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "answer": "The revenue from operations for FY 2024-25 is 78,259.46 (in Lacs).",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The answer matches the ground truth factually."
+  },
+  {
+    "id": 15,
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "answer": "The profit after tax for FY 2024-25 is H 5,287.20.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 16,
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "answer": "78,604.24",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 17,
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "answer": "The total expenses for FY 2024-25 are 71,340.86 (Standalone) and 71,375.34 (Consolidated).",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The answer provides both standalone and consolidated figures for total expenses, but the ground truth only specifies the standalone figure of 71,340.86."
+  },
+  {
+    "id": 18,
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in the retrieved contexts."
+  },
+  {
+    "id": 19,
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided in the retrieved contexts."
+  },
+  {
+    "id": 20,
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "answer": "40,642.21",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 21,
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document', but the question asks for a definition or explanation of financial assets and liabilities, which is provided in the retrieved contexts."
+  },
+  {
+    "id": 22,
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "answer": "The order value received for Adani’s Raigarh project was H185 Crore.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually, with only a minor formatting difference (H prefix)."
+  },
+  {
+    "id": 23,
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in one of the retrieved contexts."
+  },
+  {
+    "id": 24,
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "answer": "The NTPC-Pakri project faced challenges due to international statutory compliances, law-and-order issues, political sensitivities, and operational and logistical difficulties. Additionally, there were unforeseen structural challenges that required modification of the TP13A foundation design.",
+    "verdict": "partially_correct",
+    "score": 0.6,
+    "reason": "The answer correctly identifies law-and-order issues, political sensitivities, and operational/logistical difficulties as challenges faced by the NTPC-Pakri project. However, it incorrectly includes international statutory compliances and structural challenges that were not mentioned in the ground truth."
+  },
+  {
+    "id": 25,
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly stated in the retrieved contexts."
+  },
+  {
+    "id": 26,
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly stated as 'To deliver high-quality, on-time projects.' The retrieved contexts do not explicitly mention this mission statement."
+  },
+  {
+    "id": 27,
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "answer": "Warship hulls, Missile containers, Ground support equipment, Roads and bridges, Oil and gas (upstream and downstream), Water and waste management, Power (thermal, hydro and nuclear), Steel and cement plants, Ports and shipbuilding",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer lists several industries but does not explicitly mention the power, mining, fertiliser, and metal industries mentioned in the ground truth."
+  },
+  {
+    "id": 28,
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "answer": "BTL EPC Limited is a heavy engineering EPC company in India, known for its diverse projects across industries. It transformed into BTL EPC Ltd. in 2013 to reflect its position as a complete EPC contractor. The company ventured into Power Transmission EPC projects in 2014 and expanded into the ordinance factory sector in 2018. Notable projects include those for state electricity companies, defence needs, and international ventures like the Adani-Raigarh CHP and AHP projects, which demonstrated its capability as a regional EPC contractor.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer accurately summarizes BTL EPC Limited, mentioning its transformation in 2013, ventures into Power Transmission and ordinance factory sectors, and notable projects, aligning with the ground truth."
+  },
+  {
+    "id": 29,
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided and relevant information about the company's growth is present in the retrieved contexts."
+  },
+  {
+    "id": 30,
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided and relevant information exists in the retrieved contexts."
+  },
+  {
+    "id": 31,
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth and retrieved contexts provide the required information."
+  }
+]

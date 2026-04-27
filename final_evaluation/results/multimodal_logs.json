@@ -1,0 +1,443 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 469,
+    "used_table_data": false,
+    "latency": 10.210936699993908,
+    "answer": "BTL EPC Limited stands among those building for India and is driven by a skilled foundation. It operates with individuals functioning like a team, prioritizing compliance, and working exclusively within its domain."
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1501,
+    "used_table_data": true,
+    "latency": 0.7099021000030916,
+    "answer": "BTL EPC Limited was founded in 1965."
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 705,
+    "used_table_data": false,
+    "latency": 0.4591025000263471,
+    "answer": "RAVI TODI"
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 388,
+    "used_table_data": false,
+    "latency": 0.38409010000759736,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 493,
+    "used_table_data": false,
+    "latency": 0.2955452000023797,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 381,
+    "used_table_data": false,
+    "latency": 0.36215239999000914,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2214,
+    "used_table_data": false,
+    "latency": 0.7411737999937031,
+    "answer": "National Thermal Power Corporation"
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2872,
+    "used_table_data": false,
+    "latency": 0.6596380999835674,
+    "answer": "Coal India Limited"
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1218,
+    "used_table_data": false,
+    "latency": 0.7512376999948174,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1220,
+    "used_table_data": true,
+    "latency": 0.7084157000062987,
+    "answer": "The total employee strength of the company stood at 720."
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1605,
+    "used_table_data": true,
+    "latency": 1.0220387000008486,
+    "answer": "The average employee age is 31 years."
+  },
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1618,
+    "used_table_data": false,
+    "latency": 1.1586985999892931,
+    "answer": "The company has three manufacturing units located in Kolkata, one unit in Durgapur Steel city, and one unit in Kharagpur. Therefore, the total number of manufacturing units in West Bengal is five."
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1279,
+    "used_table_data": false,
+    "latency": 0.8054478999983985,
+    "answer": "The manufacturing units are located across West Bengal."
+  },
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1847,
+    "used_table_data": true,
+    "latency": 1.204256400000304,
+    "answer": "The revenue from operations for FY 2024-25 is 78,259.46 (in Lacs)."
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1904,
+    "used_table_data": true,
+    "latency": 1.5333988000056706,
+    "answer": "The profit after tax for FY 2024-25 is 5,287.20 Crore (H in cr)."
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1485,
+    "used_table_data": false,
+    "latency": 0.7681901000032667,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1640,
+    "used_table_data": true,
+    "latency": 1.097552799998084,
+    "answer": "The total expenses for FY 2024-25, as per the provided context, is 15,637.46."
+  },
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2655,
+    "used_table_data": false,
+    "latency": 0.8545711000042502,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1300,
+    "used_table_data": true,
+    "latency": 1.0240197000093758,
+    "answer": "The total financial assets value is 57,352.09."
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2302,
+    "used_table_data": true,
+    "latency": 1.0947909999813419,
+    "answer": "The total financial liabilities value as at 31st March 2024 is 40,251.58 (in lacs)."
+  },
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2669,
+    "used_table_data": false,
+    "latency": 0.6893909000209533,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2442,
+    "used_table_data": false,
+    "latency": 0.6567391999997199,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1907,
+    "used_table_data": false,
+    "latency": 0.8227278999984264,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1082,
+    "used_table_data": true,
+    "latency": 1.1235836000123527,
+    "answer": "The NTPC project faced execution risks due to unforeseen structural challenges that required a critical modification of the foundation design for TP13A. The existing design was inadequate to address updated load and site conditions, posing risks to structural stability."
+  },
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1007,
+    "used_table_data": false,
+    "latency": 0.54266869998537,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1077,
+    "used_table_data": false,
+    "latency": 0.9879633999953512,
+    "answer": "The company's mission is \"Our mission.\" However, based on the provided context, this statement does not fully define what the mission entails. Not found in document for a detailed mission description."
+  },
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 724,
+    "used_table_data": false,
+    "latency": 0.45723450000514276,
+    "answer": "The company's engineering solutions support process industries."
+  },
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 906,
+    "used_table_data": false,
+    "latency": 1.3220274999912363,
+    "answer": "BTL EPC Limited is a company with a unique culture driven by passion and a futuristic outlook. It collaborates with experts from IIT for its activities. The company focuses on development, particularly in creating solutions for outdoor workers exposed to direct sunlight, emphasizing accident prevention and material flow management often monitored remotely."
+  },
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1034,
+    "used_table_data": true,
+    "latency": 1.6102969000057783,
+    "answer": "The key business insight from the provided context regarding the company's growth over the years is that the company has demonstrated profitable growth across more than a decade. This indicates that as the company scaled its revenues, it was able to efficiently manage fixed expenses, leading to an increase in profit margins. Consequently, the revenue growth now results in a higher rate of profit accretion, suggesting a robust and sustainable business model."
+  },
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1819,
+    "used_table_data": false,
+    "latency": 0.8082302999973763,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2075,
+    "used_table_data": true,
+    "latency": 3.2044593000027817,
+    "answer": "The difference in profit after tax between FY 2023-24 and FY 2024-25 is calculated as follows:\n\nProfit After Tax for FY 2023-24 (H52.87 Crore) - Profit After Tax for FY 2024-25 (3,691.96 Cr)\n\nHowever, there seems to be a discrepancy in the units provided in the context. Assuming the unit for FY 2023-24 should also be in crores, we proceed with:\n\n52.87 Crore - 3.69196 Crore = 49.17804 Crore\n\nTherefore, the difference is 49.17804 Crore."
+  },
+  {
+    "question": "Where is the registered office of BTL EPC Limited located?",
+    "ground_truth": "2, Jessore Road, Kolkata - 700028.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1844,
+    "used_table_data": true,
+    "latency": 1.195741800009273,
+    "answer": "The registered office of BTL EPC Limited is located at 2, Jessore Road, Kolkata - 700028."
+  },
+  {
+    "question": "How many manufacturing facilities does BTL EPC Limited have across West Bengal?",
+    "ground_truth": "Five manufacturing facilities.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2717,
+    "used_table_data": true,
+    "latency": 2.5335447999823373,
+    "answer": "BTL EPC Limited has 12,212.17 factories located across West Bengal. However, this number seems unusually high and might be a typographical error or misinterpretation of the data provided in the context. The context mentions \"11,341.27 12,212.17 is factories located accross West Bengal,\" which could imply two numbers or a range, but it's not clear from the given information. Therefore, based on the provided context, the answer is:\n\nBTL EPC Limited has 12,212.17 factories located across West Bengal."
+  },
+  {
+    "question": "What is BTL EPC Limited primarily engaged in supplying?",
+    "ground_truth": "Highly engineered material handling refinery equipment.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 473,
+    "used_table_data": false,
+    "latency": 0.3021930000104476,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the revenue growth of BTL EPC Limited in FY 2024-25 compared to FY 2023-24?",
+    "ground_truth": "22.03%",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2331,
+    "used_table_data": true,
+    "latency": 1.2590084999974351,
+    "answer": "The revenue growth of BTL EPC Limited in FY 2024-25 compared to FY 2023-24 was 22.03%."
+  },
+  {
+    "question": "What was the profit after tax growth of BTL EPC Limited in FY 2024-25 compared to FY 2023-24?",
+    "ground_truth": "40.62%",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2885,
+    "used_table_data": true,
+    "latency": 1.2759441999951378,
+    "answer": "The profit after tax (PAT) growth of BTL EPC Limited in FY 2024-25 was 41% compared to FY 2023-24."
+  },
+  {
+    "question": "What was the profit before tax of BTL EPC Limited in FY 2024-25?",
+    "ground_truth": "7,263.38",
+    "retrieved_doc_count": 8,
+    "final_context_length": 3684,
+    "used_table_data": true,
+    "latency": 1.5440913999918848,
+    "answer": "The Profit before Tax for BTL EPC Limited in FY 2024-25 stood at H 7,263.38."
+  },
+  {
+    "question": "What was the pending order book at the end of FY 2024-25?",
+    "ground_truth": "2,165.83 Crore",
+    "retrieved_doc_count": 8,
+    "final_context_length": 827,
+    "used_table_data": false,
+    "latency": 0.5012194000009913,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "How much new order value was added during FY 2024-25?",
+    "ground_truth": "1,686.26 Crore",
+    "retrieved_doc_count": 8,
+    "final_context_length": 720,
+    "used_table_data": false,
+    "latency": 0.46499239999684505,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the order book at the start of FY 2024-25?",
+    "ground_truth": "1,178.98 Crore",
+    "retrieved_doc_count": 8,
+    "final_context_length": 735,
+    "used_table_data": false,
+    "latency": 0.3975499999942258,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What is the total employee training hours figure for FY 2024-25?",
+    "ground_truth": "660 hours",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1455,
+    "used_table_data": true,
+    "latency": 1.1069809000182431,
+    "answer": "The total employee training hours figure for FY 2024-25 is 660."
+  },
+  {
+    "question": "What is the revenue per employee in FY 2024-25?",
+    "ground_truth": "109 H Lacs",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1516,
+    "used_table_data": true,
+    "latency": 1.0202655000030063,
+    "answer": "The revenue per employee in FY 2024-25 is 109 H Lacs."
+  },
+  {
+    "question": "What percentage of total employees were women in FY 2024-25?",
+    "ground_truth": "2.93",
+    "retrieved_doc_count": 8,
+    "final_context_length": 875,
+    "used_table_data": true,
+    "latency": 0.969996900006663,
+    "answer": "The percentage of total employees who were women in FY 2024-25 was 2.93%."
+  },
+  {
+    "question": "What is the average age of the directors?",
+    "ground_truth": "57 years",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1169,
+    "used_table_data": true,
+    "latency": 0.7367336000024807,
+    "answer": "The average age of the directors is 57 years."
+  },
+  {
+    "question": "What is the combined experience of the board members?",
+    "ground_truth": "210+ years",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1209,
+    "used_table_data": false,
+    "latency": 0.675111199991079,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What did the Agrimech division offer?",
+    "ground_truth": "A range of quality, Made-in-India agricultural equipment aimed at improving farm productivity.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1589,
+    "used_table_data": false,
+    "latency": 0.6004570000222884,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "How many branch offices does the Agrimech division have?",
+    "ground_truth": "Seven branch offices.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1408,
+    "used_table_data": false,
+    "latency": 0.6203625999914948,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "How many dealers does the Agrimech division have across the country?",
+    "ground_truth": "Over 500 dealers.",
+    "retrieved_doc_count": 8,
+    "final_context_length": 1893,
+    "used_table_data": false,
+    "latency": 0.8152036999817938,
+    "answer": "Not found in document"
+  },
+  {
+    "question": "What was the order value of the NTPC Kerandari coal mining project?",
+    "ground_truth": "130.49 Cr",
+    "retrieved_doc_count": 8,
+    "final_context_length": 2726,
+    "used_table_data": true,
+    "latency": 1.068218899978092,
+    "answer": "The order value of the NTPC Kerandari Coal Mining Project was H 130.49 Cr."
+  }
+]

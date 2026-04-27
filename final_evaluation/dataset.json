@@ -1,0 +1,214 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector."
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965."
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director."
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors."
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services."
+  },
+
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited."
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC)."
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited."
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited."
+  },
+
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees."
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years."
+  },
+
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units."
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one)."
+  },
+
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46"
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20"
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24"
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86"
+  },
+
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38"
+  },
+
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09"
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21"
+  },
+
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88"
+  },
+
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore"
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore"
+  },
+
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities."
+  },
+
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey."
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects."
+  },
+
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries."
+  },
+
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors."
+  },
+
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors."
+  },
+
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24"
+  },
+
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20"
+  },
+
+  {
+    "question": "Where is the registered office of BTL EPC Limited located?",
+    "ground_truth": "2, Jessore Road, Kolkata - 700028."
+  },
+  {
+    "question": "How many manufacturing facilities does BTL EPC Limited have across West Bengal?",
+    "ground_truth": "Five manufacturing facilities."
+  },
+  {
+    "question": "What is BTL EPC Limited primarily engaged in supplying?",
+    "ground_truth": "Highly engineered material handling refinery equipment."
+  },
+  {
+    "question": "What was the revenue growth of BTL EPC Limited in FY 2024-25 compared to FY 2023-24?",
+    "ground_truth": "22.03%"
+  },
+  {
+    "question": "What was the profit after tax growth of BTL EPC Limited in FY 2024-25 compared to FY 2023-24?",
+    "ground_truth": "40.62%"
+  },
+  {
+    "question": "What was the profit before tax of BTL EPC Limited in FY 2024-25?",
+    "ground_truth": "7,263.38"
+  },
+  {
+    "question": "What was the pending order book at the end of FY 2024-25?",
+    "ground_truth": "2,165.83 Crore"
+  },
+  {
+    "question": "How much new order value was added during FY 2024-25?",
+    "ground_truth": "1,686.26 Crore"
+  },
+  {
+    "question": "What was the order book at the start of FY 2024-25?",
+    "ground_truth": "1,178.98 Crore"
+  },
+  {
+    "question": "What is the total employee training hours figure for FY 2024-25?",
+    "ground_truth": "660 hours"
+  },
+  {
+    "question": "What is the revenue per employee in FY 2024-25?",
+    "ground_truth": "109 H Lacs"
+  },
+  {
+    "question": "What percentage of total employees were women in FY 2024-25?",
+    "ground_truth": "2.93"
+  },
+  {
+    "question": "What is the average age of the directors?",
+    "ground_truth": "57 years"
+  },
+  {
+    "question": "What is the combined experience of the board members?",
+    "ground_truth": "210+ years"
+  },
+  {
+    "question": "What did the Agrimech division offer?",
+    "ground_truth": "A range of quality, Made-in-India agricultural equipment aimed at improving farm productivity."
+  },
+  {
+    "question": "How many branch offices does the Agrimech division have?",
+    "ground_truth": "Seven branch offices."
+  },
+  {
+    "question": "How many dealers does the Agrimech division have across the country?",
+    "ground_truth": "Over 500 dealers."
+  },
+  {
+    "question": "What was the order value of the NTPC Kerandari coal mining project?",
+    "ground_truth": "130.49 Cr"
+  }
+]

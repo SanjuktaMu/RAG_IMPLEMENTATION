@@ -1,0 +1,12 @@
+{
+  "file": "adaptive_results.json",
+  "total": 31,
+  "correct": 13,
+  "partially_correct": 4,
+  "incorrect": 14,
+  "accuracy": 0.4194,
+  "partial_credit_accuracy": 0.4839,
+  "avg_score": 0.4903,
+  "model": "qwen2.5-coder:32b",
+  "base_url": "http://192.168.19.21:11434"
+}

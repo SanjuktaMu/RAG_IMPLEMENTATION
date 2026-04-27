@@ -1,0 +1,12 @@
+{
+  "file": "multimodal_results.json",
+  "total": 49,
+  "correct": 18,
+  "partially_correct": 2,
+  "incorrect": 29,
+  "accuracy": 0.3673,
+  "partial_credit_accuracy": 0.3878,
+  "avg_score": 0.3878,
+  "model": "qwen2.5-coder:32b",
+  "base_url": "http://192.168.19.21:11434"
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "question": "Summarize the company vision",
+    "ground_truth": "",
+    "answer": "Not found in document",
+    "contexts": [
+      "Corporate Overview is Our vision.",
+      "Corporate Overview is Company should benefit..",
+      "Corporate Overview is translated into a better perception.",
+      "Corporate Overview is When they felt that fabricating a range of products would.",
+      "Corporate Overview is The Company enjoys attractive revenue visibility.",
+      "Corporate Overview is procedures..",
+      "Corporate Overview is flows and profitability..",
+      "quality. The Company is committed is driven organisation.."
+    ],
+    "rag_type": "multimodal_custom",
+    "latency": 9.842836499999976
+  }
+]

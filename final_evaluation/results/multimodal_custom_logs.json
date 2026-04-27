@@ -1,0 +1,11 @@
+[
+  {
+    "question": "Summarize the company vision",
+    "ground_truth": "",
+    "retrieved_doc_count": 8,
+    "final_context_length": 441,
+    "used_table_data": false,
+    "latency": 9.842836499999976,
+    "answer": "Not found in document"
+  }
+]

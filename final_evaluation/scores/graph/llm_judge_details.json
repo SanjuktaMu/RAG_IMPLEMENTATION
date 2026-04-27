@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "answer": "BTL EPC Limited is a Public Limited Company domiciled in India and incorporated under the Companies Act 1956. The Company has its registered office at 2, Jessore Road, Kolkata - 700028 and five manufacturing facilities across West Bengal. The Company is primarily engaged in the supply of highly engineered material handling refinery products.",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer does not match the ground truth factually. It incorrectly states that BTL EPC Limited is primarily engaged in the supply of highly engineered material handling refinery products, whereas the ground truth describes it as an engineering, procurement and construction company in the heavy engineering sector."
+  },
+  {
+    "id": 2,
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "answer": "BTL EPC Limited was founded in 1965 by Mr. S.K. Todi.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The answer matches the ground truth factually, stating that BTL EPC Limited was founded in 1965."
+  },
+  {
+    "id": 3,
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "answer": "Ravi Todi",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly identifies Ravi Todi as the Managing Director of BTL EPC Limited."
+  },
+  {
+    "id": 4,
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "answer": "Based on the provided context, BTL EPC Limited operates in the following sectors:\n\n1. Engineering (including Power Transmission EPC projects and Ordinance Factory sector)\n2. Agro Machinery (Agrimech Division)",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer mentions the engineering and agro machinery sectors, but does not include mining, fertiliser, or metal sectors as specified in the ground truth."
+  },
+  {
+    "id": 5,
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in the retrieved contexts."
+  },
+  {
+    "id": 6,
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in the retrieved contexts."
+  },
+  {
+    "id": 7,
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly mentioned as National Thermal Power Corporation (NTPC) in the retrieved contexts."
+  },
+  {
+    "id": 8,
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "answer": "Coal India Limited",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer correctly identifies Coal India Limited as the company contributing over 80% of India’s coal output."
+  },
+  {
+    "id": 9,
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when there is relevant information about Indian Oil Corporation Limited in the retrieved contexts."
+  },
+  {
+    "id": 10,
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "answer": "The total employee strength stood at 720.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 11,
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "answer": "The average employee age stood at 31 years.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 12,
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "answer": "The company has five state-of-the-art manufacturing units in West Bengal. These are located in Kolkata (three), Durgapur Steel city (one), and Kharagpur (one).",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually, stating that the company has five manufacturing units in West Bengal with their specific locations."
+  },
+  {
+    "id": 13,
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "answer": "Kolkata (three), Durgapur Steel city (one), and Kharagpur (one)",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 14,
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "answer": "78,259.46",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 15,
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "answer": "The profit after tax for FY 2024-25 is H 5,252.78.",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer provides an incorrect value of H 5,252.78 instead of the correct ground truth value of 5,287.20."
+  },
+  {
+    "id": 16,
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "answer": "The total income for FY 2024-25 is 78,604.24 (in H Lacs).",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 17,
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "answer": "71,340.86",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 18,
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in the retrieved contexts."
+  },
+  {
+    "id": 19,
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "answer": "The total financial assets value as at 31st March 2025 is 57,392.04 (in K).",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer provides an incorrect total financial assets value of 57,392.04 instead of the ground truth value of 57,352.09."
+  },
+  {
+    "id": 20,
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "answer": "The total financial liabilities value as at 31st March 2025 is 40,642.21 (H in Lacs) and as at 31st March 2024 is 39,393.55 (H in Lacs).",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually and includes both the current and previous year values correctly."
+  },
+  {
+    "id": 21,
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is a numeric value (16709.88) and relevant information about financial assets and liabilities is present in the retrieved contexts."
+  },
+  {
+    "id": 22,
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "answer": "The order value received for Adani's Raigarh project includes:\n\n- Dash Handling Plant: 180.00 Crore\n- Coal Handling Plant: 222.00 Crore\n\nTotal for Adani Power Plant at Raigarh: 402.00 Crore",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer provides a total order value of 402.00 Crore, which does not match the ground truth of 185 Crore."
+  },
+  {
+    "id": 23,
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided in one of the retrieved contexts."
+  },
+  {
+    "id": 24,
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "answer": "The NTPC-Pakri project faced challenges due to international statutory compliances, large order logistics, and operational difficulties in a location marked by law-and-order issues and political sensitivities.",
+    "verdict": "partially_correct",
+    "score": 0.67,
+    "reason": "The answer mentions law-and-order issues and political sensitivities, which are part of the ground truth. However, it incorrectly includes international statutory compliances and large order logistics instead of logistical challenges."
+  },
+  {
+    "id": 25,
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided in the retrieved contexts."
+  },
+  {
+    "id": 26,
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is clearly stated in the retrieved contexts."
+  },
+  {
+    "id": 27,
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "answer": "The Company services the growing critical equipment needs of India's power, mining, fertiliser, and metal sectors.",
+    "verdict": "correct",
+    "score": 1.0,
+    "reason": "The model answer matches the ground truth factually."
+  },
+  {
+    "id": 28,
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "answer": "BTL EPC Limited is a Public Limited Company domiciled in India, incorporated under the Companies Act 1956. It has its registered office in Kolkata and operates five manufacturing facilities across West Bengal. The company primarily engages in supplying highly engineered material handling refinery equipment.",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer provides some correct information about BTL EPC Limited, such as its incorporation and location, but it misses the key point that it is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors."
+  },
+  {
+    "id": 29,
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "answer": "The Company's business model has been validated by profitable growth across more than a decade. Each time revenues increased, it led to better amortisation of fixed expenses and wider margins. Consequently, revenue growth now results in a higher rate of profit accretion. Specifically, during the last financial year, the Company reported revenue growth of 22%, EBITDA growth of 21%, and PAT growth of 41%. Additionally, it secured new contracts, including the largest one in its history.",
+    "verdict": "partially_correct",
+    "score": 0.5,
+    "reason": "The model answer focuses on financial performance and does not mention the specific growth strategies such as acquisitions, diversification, EPC entry, and increasing project scale across sectors mentioned in the ground truth."
+  },
+  {
+    "id": 30,
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "answer": "Not found in document",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer states 'Not found in document' when the ground truth is provided in the retrieved contexts."
+  },
+  {
+    "id": 31,
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "answer": "The difference in profit after tax between FY 2023-24 and FY 2024-25 is H1,608.84 Crore.\n\nCalculation:\nProfit After Tax (FY 2024-25) - Profit After Tax (FY 2023-24)\nH5,252.78 Crore - H3,691.96 Crore = H1,560.82 Crore\n\nHowever, the closest value provided in the context is H1,608.84 Crore, which seems to be a rounded or adjusted figure. Given the options and the context, H1,608.84 Crore is used as the answer.",
+    "verdict": "incorrect",
+    "score": 0.0,
+    "reason": "The model answer uses an incorrect value (H1,608.84 Crore) that is not present in the provided context and does not match the actual difference calculated from the given figures (H1,560.82 Crore)."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "file": "simple_results.json",
+  "total": 31,
+  "correct": 11,
+  "partially_correct": 3,
+  "incorrect": 17,
+  "accuracy": 0.3548,
+  "partial_credit_accuracy": 0.4032,
+  "avg_score": 0.4065,
+  "model": "qwen2.5-coder:32b",
+  "base_url": "http://192.168.19.21:11434"
+}

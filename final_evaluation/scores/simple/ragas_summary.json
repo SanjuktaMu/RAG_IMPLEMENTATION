@@ -1,0 +1,9 @@
+{
+  "file": "simple_results.json",
+  "total": 31,
+  "faithfulness": null,
+  "answer_relevancy": null,
+  "context_precision": null,
+  "status": "skipped",
+  "error": "RAGAS skipped (run with --with-ragas to enable)"
+}

@@ -1,0 +1,114 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1a1a1a;
+  background: linear-gradient(135deg, #f7fbff 0%, #eef2ff 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.app-shell {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #d6defa;
+  border-radius: 12px;
+  padding: 16px;
+  margin-top: 16px;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+}
+
+button {
+  margin-top: 10px;
+  background: #2f6df6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 14px;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.status {
+  margin-top: 10px;
+  color: #1f4fc1;
+}
+
+.chat-box {
+  min-height: 120px;
+  max-height: 320px;
+  overflow: auto;
+  padding: 8px;
+  background: #f7f9ff;
+  border: 1px solid #e1e6ff;
+  border-radius: 8px;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.message.user {
+  background: #e5edff;
+}
+
+.message.assistant {
+  background: #f2f5fb;
+}
+
+.chat-input-row {
+  margin-top: 10px;
+  display: grid;
+  gap: 8px;
+}
+
+textarea {
+  width: 100%;
+  resize: vertical;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccd6ff;
+}
+
+.muted {
+  color: #666;
+}
+
+.result-panel {
+  margin-top: 14px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: #f8faff;
+  border: 1px solid #e2e8ff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+@media (max-width: 640px) {
+  .app-shell {
+    padding: 14px;
+  }
+}

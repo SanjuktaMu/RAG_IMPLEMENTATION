@@ -1,0 +1,9 @@
+{
+  "file": "multimodal_results.json",
+  "total": 49,
+  "faithfulness": null,
+  "answer_relevancy": null,
+  "context_precision": null,
+  "status": "skipped",
+  "error": "RAGAS skipped (run with --with-ragas to enable)"
+}

@@ -1,0 +1,43 @@
+# Core LangChain ecosystem
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+
+# Vector DB
+chromadb
+
+# PDF processing
+pypdf
+unstructured
+pymupdf
+camelot-py
+opencv-python-headless
+
+# Local LLM (Ollama)
+ollama
+
+# Evaluation
+ragas
+datasets
+openai
+groq
+
+# Embeddings (local)
+sentence-transformers
+
+# Utilities
+tqdm
+numpy
+pandas
+scikit-learn
+rank-bm25
+networkx
+pillow
+transformers
+torch
+streamlit
+fastapi
+uvicorn
+python-multipart

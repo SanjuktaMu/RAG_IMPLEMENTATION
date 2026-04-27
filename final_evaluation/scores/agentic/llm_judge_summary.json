@@ -1,0 +1,12 @@
+{
+  "file": "agentic_results.json",
+  "total": 31,
+  "correct": 14,
+  "partially_correct": 3,
+  "incorrect": 14,
+  "accuracy": 0.4516,
+  "partial_credit_accuracy": 0.5,
+  "avg_score": 0.5032,
+  "model": "qwen2.5-coder:32b",
+  "base_url": "http://192.168.19.21:11434"
+}

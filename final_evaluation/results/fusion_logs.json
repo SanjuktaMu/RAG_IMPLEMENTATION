@@ -1,0 +1,1025 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.013888888888888888,
+      0.0136986301369863,
+      0.013157894736842105,
+      0.01639344262295082,
+      0.01639344262295082,
+      0.016129032258064516
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.011363636363636364,
+      0.011494252873563218,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_combined_scores": [
+      0.015015938069216757,
+      0.01264788293897883,
+      0.012409255898366604,
+      0.009016393442622951,
+      0.009016393442622951,
+      0.008870967741935484
+    ],
+    "answer": "BTL EPC Limited stands among India’s fastest-growing heavy engineering EPC companies, delivering integrated solutions across the core sectors of powering India’s economy. From complex project execution to precision-engineered fabrication, BTL EPC plays a pivotal role in India’s industrial transformation.",
+    "latency": 1.373630000045523
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.014285714285714285,
+      0.013888888888888888,
+      0.015625,
+      0.014705882352941176
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015625,
+      0.014705882352941176,
+      0.010869565217391304,
+      0.010752688172043012
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.014888392857142857,
+      0.014256535947712418,
+      0.013485054347826087,
+      0.012926944971537003
+    ],
+    "answer": "BTL EPC Limited was founded in 1965 by Mr. S.K. Todi.",
+    "latency": 0.8398302000714466
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.01282051282051282,
+      0.01639344262295082,
+      0.01639344262295082,
+      0.016129032258064516
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.009433962264150943,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.011296565070149974,
+      0.009016393442622951,
+      0.009016393442622951,
+      0.008870967741935484
+    ],
+    "answer": "The Managing Director of BTL EPC Limited is Mr. Ravi Todi.",
+    "latency": 0.7510239999974146
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.014084507042253521,
+      0.014285714285714285,
+      0.013888888888888888,
+      0.015873015873015872
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015384615384615385,
+      0.014925373134328358,
+      0.014705882352941176,
+      0.010638297872340425
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.01466955579631636,
+      0.014573560767590619,
+      0.014256535947712418,
+      0.013517392772711922
+    ],
+    "answer": "BTL EPC Limited operates in a variety of sectors including:\n\n- PenstocksSteel and cement plants\n- Structural steel work\n- Hoppers\n- Silos\n- Conveyors\n- Ports and shipbuilding\n- Dock gates\n- Cranes\n- Modular hull blocks\n- Bulk Material Handling \n- Coal Chemical\n- Underground Coal Mining\n- Ash Handling \n- Power Transmission\n- Defense\n- Agrimech\n- Manufacturing\n- Special Business \n- Water Management \n- Railways and metro (Coach bodies, Bridges, Station infrastructure, Steel structures, E&M works)\n- Renewable energy (Wind turbine towers, Solar module mounting structures, Green hydrogen electrolyser housings)\n- Defense and aerospace (Warship hulls, Missile containers, Ground support equipment)\n- Roads and bridges (Pre-engineered bridges, Flyovers, Steel girders)",
+    "latency": 3.089302000007592
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.009900990099009901,
+      0.00980392156862745,
+      0.01639344262295082,
+      0.016129032258064516
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.011904761904761904,
+      0.008333333333333333,
+      0.0,
+      0.0
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.010802687411598302,
+      0.009142156862745098,
+      0.009016393442622951,
+      0.008870967741935484
+    ],
+    "answer": "BTL EPC Limited provides end-to-end engineering solutions, including design and planning, precision fabrication, and on-site execution. They service the growing critical equipment needs of India’s power, mining, fertiliser, and metal sectors.",
+    "latency": 1.0366173000074923
+  },
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.013513513513513514,
+      0.014705882352941176,
+      0.014084507042253521,
+      0.012658227848101266,
+      0.015873015873015872
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015625,
+      0.01282051282051282,
+      0.014492753623188406,
+      0.010309278350515464
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.014690496948561466,
+      0.015119485294117647,
+      0.013515709642470206,
+      0.013483764446890478,
+      0.013369333987890688
+    ],
+    "answer": "Bharat Heavy Electricals Limited, National Thermal Power Corporation, Not found in document",
+    "latency": 1.8750224999384955
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.016129032258064516,
+      0.0,
+      0.01639344262295082,
+      0.014084507042253521,
+      0.014492753623188406,
+      0.015151515151515152
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.014705882352941176,
+      0.015873015873015872,
+      0.014084507042253521,
+      0.0125
+    ],
+    "top_combined_scores": [
+      0.016248016922263353,
+      0.007258064516129032,
+      0.01563404050144648,
+      0.014889336016096578,
+      0.014309042661767708,
+      0.013958333333333335
+    ],
+    "answer": "National Thermal Power Corporation (NTPC) is mentioned as a client and is described as India’s largest power utility in the context provided.",
+    "latency": 1.0743544000433758
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.015151515151515152,
+      0.01639344262295082,
+      0.015625,
+      0.014925373134328358,
+      0.0136986301369863
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015151515151515152,
+      0.015625,
+      0.014925373134328358,
+      0.015873015873015872
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.015591397849462367,
+      0.01583457526080477,
+      0.015625,
+      0.014925373134328356,
+      0.014677103718199608
+    ],
+    "answer": "Coal India Limited",
+    "latency": 0.4915359999286011
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.014084507042253521,
+      0.013157894736842105,
+      0.015873015873015872,
+      0.014492753623188406
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015625,
+      0.015873015873015872,
+      0.012048192771084338,
+      0.012195121951219513
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.014777728873239436,
+      0.0143796992481203,
+      0.014151845477146683,
+      0.013458819370802405
+    ],
+    "answer": "Indian Oil Corporation Limited (IOCL) operates across the entire hydrocarbon value chain.",
+    "latency": 0.7956750000594184
+  },
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.014925373134328358,
+      0.016129032258064516,
+      0.014705882352941176,
+      0.0136986301369863,
+      0.01639344262295082
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.014705882352941176,
+      0.015384615384615385,
+      0.009433962264150943
+    ],
+    "top_combined_scores": [
+      0.01639344262295082,
+      0.015467019740009628,
+      0.016013824884792624,
+      0.014705882352941176,
+      0.014457323498419388,
+      0.013261676461490875
+    ],
+    "answer": "The total employee strength stood at 720.",
+    "latency": 0.8682777000358328
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.01639344262295082,
+      0.015873015873015872,
+      0.013888888888888888,
+      0.015384615384615385
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.014084507042253521,
+      0.013513513513513514,
+      0.011627906976744186
+    ],
+    "top_combined_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.016159250585480095,
+      0.015068186899172813,
+      0.013719969969969971,
+      0.013694096601073347
+    ],
+    "answer": "The average employee age is 31 years.",
+    "latency": 0.894694900023751
+  },
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.015625,
+      0.0,
+      0.01639344262295082,
+      0.015873015873015872,
+      0.015384615384615385,
+      0.015151515151515152
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.015625,
+      0.014492753623188406,
+      0.013333333333333334
+    ],
+    "top_combined_scores": [
+      0.015970799180327868,
+      0.007258064516129032,
+      0.016159250585480095,
+      0.01576140873015873,
+      0.014983277591973244,
+      0.014333333333333335
+    ],
+    "answer": "The company has five state-of-the-art manufacturing units in West Bengal.",
+    "latency": 0.6000624999869615
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.015384615384615385,
+      0.01020408163265306,
+      0.01639344262295082,
+      0.016129032258064516,
+      0.013888888888888888,
+      0.014925373134328358
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.014492753623188406,
+      0.015625,
+      0.014084507042253521
+    ],
+    "top_combined_scores": [
+      0.015838587641866332,
+      0.012870309414088215,
+      0.016159250585480095,
+      0.015392706872370265,
+      0.014670138888888889,
+      0.014546983392894682
+    ],
+    "answer": "Our manufacturing units are located in Kolkata (three), Durgapur Steel city (one) and Kharagpur (one).",
+    "latency": 0.8096697001019493
+  },
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.012658227848101266,
+      0.015873015873015872,
+      0.015384615384615385,
+      0.014705882352941176,
+      0.016129032258064516
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015151515151515152,
+      0.013513513513513514,
+      0.013333333333333334,
+      0.00980392156862745
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.014220089832584729,
+      0.015548340548340547,
+      0.014542619542619543,
+      0.014088235294117648,
+      0.013282732447817837
+    ],
+    "answer": "The revenue from operations for FY 2024-25 is H 78,259.46 lacs.",
+    "latency": 1.0543038001051173
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.016129032258064516,
+      0.014084507042253521,
+      0.015873015873015872,
+      0.014925373134328358,
+      0.013888888888888888,
+      0.014084507042253521
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.015625,
+      0.014925373134328358,
+      0.014492753623188406
+    ],
+    "top_combined_scores": [
+      0.016248016922263353,
+      0.01500454338936847,
+      0.015873015873015872,
+      0.015240205223880596,
+      0.01435530679933665,
+      0.01426821800367422
+    ],
+    "answer": "The profit after tax for FY 2024-25 is H52.87 Crore.",
+    "latency": 1.032541900058277
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.013157894736842105,
+      0.016129032258064516,
+      0.01639344262295082,
+      0.014705882352941176,
+      0.012658227848101266,
+      0.013888888888888888
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015625,
+      0.014492753623188406,
+      0.014705882352941176,
+      0.01
+    ],
+    "top_combined_scores": [
+      0.014613891285591027,
+      0.016129032258064516,
+      0.016047643442622953,
+      0.01460997442455243,
+      0.013579672375279225,
+      0.01213888888888889
+    ],
+    "answer": "The total income (revenue) for FY 2024-25, as reported in the context, is H782.59 Crore.",
+    "latency": 1.164477500016801
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.01639344262295082,
+      0.0136986301369863,
+      0.012048192771084338,
+      0.010752688172043012
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.012048192771084338,
+      0.012195121951219513,
+      0.01098901098901099
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.016159250585480095,
+      0.012955933322330419,
+      0.012114310902145167,
+      0.010859033439678601
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.7227420000126585
+  },
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.011627906976744186,
+      0.016129032258064516,
+      0.015625,
+      0.014084507042253521,
+      0.011764705882352941
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.01282051282051282,
+      0.013333333333333334,
+      0.013157894736842105,
+      0.015873015873015872
+    ],
+    "top_combined_scores": [
+      0.01639344262295082,
+      0.013653413353338334,
+      0.014640198511166252,
+      0.01459375,
+      0.013667531504818385,
+      0.013613445378151259
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.637027999968268
+  },
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.014084507042253521,
+      0.013888888888888888,
+      0.011494252873563218,
+      0.014705882352941176
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.013157894736842105,
+      0.01282051282051282,
+      0.015384615384615385,
+      0.01
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.013667531504818385,
+      0.013408119658119659,
+      0.013244916003536694,
+      0.012588235294117647
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.5235567999770865
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.014285714285714285,
+      0.0,
+      0.014492753623188406,
+      0.013513513513513514,
+      0.012987012987012988,
+      0.013513513513513514
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.014492753623188406,
+      0.015625,
+      0.015873015873015872,
+      0.014705882352941176
+    ],
+    "top_combined_scores": [
+      0.015234192037470725,
+      0.007258064516129032,
+      0.014492753623188408,
+      0.014463682432432432,
+      0.014285714285714285,
+      0.014050079491255963
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.4937489000149071
+  },
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.014492753623188406,
+      0.0,
+      0.014492753623188406,
+      0.014705882352941176,
+      0.013157894736842105,
+      0.0125
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015151515151515152,
+      0.012048192771084338,
+      0.013513513513513514,
+      0.014285714285714285
+    ],
+    "top_combined_scores": [
+      0.015348063673081492,
+      0.007258064516129032,
+      0.014789196310935442,
+      0.013509922041105599,
+      0.013317923186344238,
+      0.013303571428571428
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.5393727000337094
+  },
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.016129032258064516,
+      0.01639344262295082,
+      0.014925373134328358,
+      0.014705882352941176
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015384615384615385,
+      0.014285714285714285,
+      0.014492753623188406,
+      0.014084507042253521
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.015794044665012406,
+      0.015444964871194379,
+      0.014730694354315378,
+      0.014426263463131733
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.4687180001055822
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.0,
+      0.012987012987012988,
+      0.009433962264150943,
+      0.009345794392523364,
+      0.011235955056179775
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.012048192771084338,
+      0.014492753623188406,
+      0.013888888888888888,
+      0.008620689655172414
+    ],
+    "top_combined_scores": [
+      0.01639344262295082,
+      0.007258064516129032,
+      0.012564543889845094,
+      0.0117104183757178,
+      0.011390186915887848,
+      0.010059085625726463
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.4608758999966085
+  },
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.0125,
+      0.014492753623188406,
+      0.014925373134328358,
+      0.015625,
+      0.012658227848101266
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.014285714285714285,
+      0.0125,
+      0.011494252873563218,
+      0.0136986301369863
+    ],
+    "top_combined_scores": [
+      0.01639344262295082,
+      0.014133064516129033,
+      0.014399585921325052,
+      0.013833955223880597,
+      0.013766163793103449,
+      0.013126408878099531
+    ],
+    "answer": "The NTPC project faced challenges due to international statutory compliances, law-and-order issues, political sensitivities, extensive civil works, structural steel fabrication, complex mechanical, electrical, control cum instrumentation and utility systems integration, political instability, related delays, and cost overruns.",
+    "latency": 1.2324500000104308
+  },
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.013513513513513514,
+      0.014084507042253521,
+      0.0136986301369863,
+      0.015873015873015872
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015625,
+      0.014925373134328358,
+      0.015384615384615385,
+      0.011111111111111112
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.014463682432432432,
+      0.014462896783687198,
+      0.014457323498419388,
+      0.013730158730158731
+    ],
+    "answer": "To be the engineering partner of choice in India’s infrastructure journey of value through innovation, precision, and excellence in every project we undertake.",
+    "latency": 0.8214073000708595
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0136986301369863,
+      0.016129032258064516,
+      0.0125,
+      0.015151515151515152,
+      0.014084507042253521
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.010638297872340425,
+      0.014705882352941176,
+      0.011111111111111112,
+      0.01098901098901099
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.014792311091471498,
+      0.013658201784488674,
+      0.01349264705882353,
+      0.013333333333333336,
+      0.012691533818294382
+    ],
+    "answer": "The company's mission is to consistently deliver high-quality, on-time projects that strengthen India’s industrial foundation.",
+    "latency": 0.7713968000607565
+  },
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.015384615384615385,
+      0.0,
+      0.013888888888888888,
+      0.014285714285714285,
+      0.013888888888888888,
+      0.01639344262295082
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015384615384615385,
+      0.012987012987012988,
+      0.01282051282051282,
+      0.009523809523809525
+    ],
+    "top_combined_scores": [
+      0.015838587641866332,
+      0.007258064516129032,
+      0.014561965811965812,
+      0.013701298701298702,
+      0.013408119658119659,
+      0.013302107728337238
+    ],
+    "answer": "The Company services the growing critical equipment needs of India's power, mining, fertiliser, and metal sectors. Additionally, its offerings include turnkey solutions for industries like steel, oil & gas, cement, metallurgy, and minerals.",
+    "latency": 1.074340600054711
+  },
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.015625,
+      0.015384615384615385,
+      0.015151515151515152
+    ],
+    "top_bm25_scores": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_combined_scores": [
+      0.009016393442622951,
+      0.008870967741935484,
+      0.00873015873015873,
+      0.00859375,
+      0.008461538461538463,
+      0.008333333333333335
+    ],
+    "answer": "BTL EPC Limited is a company characterized by its unique culture, which is driven by passion and a futuristic outlook. The annual report highlights the company's proactive approach and preponed initiatives, indicating an opportunity for growth or innovation. Financially, the management has assessed that the fair values of various financial assets and liabilities approximate their carrying amounts, suggesting transparency and accuracy in financial reporting. Additionally, the company addresses its pending litigation by reviewing all claims and making adequate provisions, ensuring compliance with legal and regulatory requirements. The report also includes forward-looking statements, acknowledging potential differences between expressed or implied expectations and actual outcomes.",
+    "latency": 2.0926683999132365
+  },
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.0,
+      0.0,
+      0.014285714285714285,
+      0.012987012987012988,
+      0.014925373134328358,
+      0.01639344262295082
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.014705882352941176,
+      0.015873015873015872,
+      0.0125,
+      0.010526315789473684
+    ],
+    "top_combined_scores": [
+      0.007377049180327868,
+      0.007258064516129032,
+      0.014474789915966386,
+      0.014285714285714285,
+      0.013833955223880597,
+      0.013753235547886109
+    ],
+    "answer": "Not found in document",
+    "latency": 1.7868221000535414
+  },
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.015625,
+      0.013513513513513514,
+      0.014285714285714285,
+      0.014084507042253521,
+      0.016129032258064516,
+      0.015384615384615385
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.015625,
+      0.01282051282051282,
+      0.012345679012345678
+    ],
+    "top_combined_scores": [
+      0.015970799180327868,
+      0.014690496948561466,
+      0.015,
+      0.014777728873239436,
+      0.014640198511166252,
+      0.014017094017094018
+    ],
+    "answer": "Not found in document.",
+    "latency": 0.6584072000114247
+  },
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "alpha": 0.55,
+    "retrieved_doc_count": 6,
+    "final_doc_count": 6,
+    "top_vector_scores": [
+      0.016129032258064516,
+      0.01639344262295082,
+      0.01282051282051282,
+      0.014285714285714285,
+      0.013513513513513514,
+      0.013157894736842105
+    ],
+    "top_bm25_scores": [
+      0.01639344262295082,
+      0.016129032258064516,
+      0.015873015873015872,
+      0.012048192771084338,
+      0.012658227848101266,
+      0.012345679012345678
+    ],
+    "top_combined_scores": [
+      0.016248016922263353,
+      0.016274457958751983,
+      0.014194139194139192,
+      0.01327882960413081,
+      0.013128634964078002,
+      0.012792397660818713
+    ],
+    "answer": "Not found in document",
+    "latency": 4.290973099996336
+  }
+]

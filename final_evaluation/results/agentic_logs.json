@@ -1,0 +1,998 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "What is",
+    "generated_queries": [
+      "What is",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "BTL EPC Limited, the engineering arm of the Kolkata-based Shrachi Group, was founded in 1965 by Mr. S.K. Todi. Originally established as Bengal Tools Limited, it evolved into a diversified EPC contracting firm with a rich legacy in engineering excellence. Today, managed by Mr. Ravi Todi, Promoter and Managing Director, BTL EPC is engaged in supply of highly engineered material handling refinery equipment.",
+    "latency": 8.86696660000598
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "When was founded",
+    "generated_queries": [
+      "When was founded",
+      "BTL EPC Limited Our milestones 1965",
+      "BTL EPC Limited established 1965",
+      "BTL EPC Limited history milestones",
+      "was founded",
+      "BTL EPC Limited was founded"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "When was founded",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our milestones 1965",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited established 1965",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited history milestones",
+        "doc_count": 6
+      },
+      {
+        "query": "was founded",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited was founded",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "1965",
+    "latency": 5.302751999988686
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "Who is the Managing Director of",
+    "generated_queries": [
+      "Who is the Managing Director of",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "BTL EPC Limited Managing Director Ravi Todi",
+      "BTL EPC Limited Board of Directors Managing Director"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Who is the Managing Director of",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Managing Director Ravi Todi",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Board of Directors Managing Director",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Mr. Ravi Todi",
+    "latency": 5.403569200017955
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "What sectors does operate in",
+    "generated_queries": [
+      "What sectors does operate in",
+      "BTL EPC Limited Our businesses sectors power mining fertiliser metal",
+      "BTL EPC Limited sectors power mining fertiliser metal",
+      "BTL EPC Limited business segments",
+      "sectors does operate",
+      "BTL EPC Limited sectors does operate"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What sectors does operate in",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our businesses sectors power mining fertiliser metal",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited sectors power mining fertiliser metal",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited business segments",
+        "doc_count": 6
+      },
+      {
+        "query": "sectors does operate",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited sectors does operate",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Bulk Material Handling, Coal Chemical, Underground Coal Mining, Ash Handling, Power Transmission, Defense, Agrimech, Manufacturing, Special Business, Water Management",
+    "latency": 6.009022200014442
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What type of services does provide",
+    "generated_queries": [
+      "What type of services does provide",
+      "BTL EPC Limited engineering procurement construction services",
+      "BTL EPC Limited EPC services heavy engineering"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What type of services does provide",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited engineering procurement construction services",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited EPC services heavy engineering",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "BTL EPC Limited provides end-to-end engineering solutions including design, planning, precision fabrication, and on-site execution for industries like power, mining, fertiliser, and metal sectors.",
+    "latency": 5.678155500034336
+  },
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "Name three marquee clients of .",
+    "generated_queries": [
+      "Name three marquee clients of .",
+      "BTL EPC Limited Our marquee clients",
+      "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+      "name three marquee clients",
+      "BTL EPC Limited name three marquee clients"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Name three marquee clients of .",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our marquee clients",
+        "doc_count": 6
+      },
+      {
+        "query": "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+        "doc_count": 6
+      },
+      {
+        "query": "name three marquee clients",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited name three marquee clients",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.937569300003815
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "Which PSU is India's largest power utility mentioned as a client",
+    "generated_queries": [
+      "Which PSU is India's largest power utility mentioned as a client",
+      "BTL EPC Limited Our marquee clients",
+      "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+      "BTL EPC Limited National Thermal Power Corporation NTPC",
+      "BTL EPC Limited India's largest power utility client"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Which PSU is India's largest power utility mentioned as a client",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our marquee clients",
+        "doc_count": 6
+      },
+      {
+        "query": "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited National Thermal Power Corporation NTPC",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited India's largest power utility client",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "National Thermal Power Corporation",
+    "latency": 5.477474400016945
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "Which company contributes over 80% of India’s coal output",
+    "generated_queries": [
+      "Which company contributes over 80% of India’s coal output",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "Coal India Limited contributes over 80% of India's coal output"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Which company contributes over 80% of India’s coal output",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "Coal India Limited contributes over 80% of India's coal output",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Coal India Limited",
+    "latency": 5.202866100007668
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "Which client operates across the hydrocarbon value chain",
+    "generated_queries": [
+      "Which client operates across the hydrocarbon value chain",
+      "BTL EPC Limited Our businesses sectors power mining fertiliser metal",
+      "BTL EPC Limited sectors power mining fertiliser metal",
+      "BTL EPC Limited business segments",
+      "BTL EPC Limited Our marquee clients",
+      "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+      "Indian Oil Corporation Limited hydrocarbon value chain"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Which client operates across the hydrocarbon value chain",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our businesses sectors power mining fertiliser metal",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited sectors power mining fertiliser metal",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited business segments",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited Our marquee clients",
+        "doc_count": 6
+      },
+      {
+        "query": "Bharat Heavy Electricals Limited NTPC Adani Power Limited Indian Oil Corporation Limited Coal India Limited",
+        "doc_count": 6
+      },
+      {
+        "query": "Indian Oil Corporation Limited hydrocarbon value chain",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.604000699997414
+  },
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the total employee strength of the company",
+    "generated_queries": [
+      "What is the total employee strength of the company",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "BTL EPC Limited total employee strength 720",
+      "BTL EPC Limited our workforce"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the total employee strength of the company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited total employee strength 720",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited our workforce",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "720",
+    "latency": 5.53430290002143
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the average employee age",
+    "generated_queries": [
+      "What is the average employee age",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "BTL EPC Limited average employee age 31 years"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the average employee age",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited average employee age 31 years",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "31 years",
+    "latency": 5.457123200001661
+  },
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "How many manufacturing units does the company have in West Bengal",
+    "generated_queries": [
+      "How many manufacturing units does the company have in West Bengal",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "How many manufacturing units does the company have in West Bengal",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "five",
+    "latency": 5.305386200023349
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "List the locations of manufacturing units.",
+    "generated_queries": [
+      "List the locations of manufacturing units.",
+      "list locations manufacturing units",
+      "BTL EPC Limited list locations manufacturing units"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "List the locations of manufacturing units.",
+        "doc_count": 6
+      },
+      {
+        "query": "list locations manufacturing units",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited list locations manufacturing units",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Kolkata (three), Durgapur Steel city (one), Kharagpur (one)",
+    "latency": 6.974759600008838
+  },
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the revenue from operations for FY 2024-25",
+    "generated_queries": [
+      "What is the revenue from operations for FY 2024-25",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the revenue from operations for FY 2024-25",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "78,259.46",
+    "latency": 5.472197099996265
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the profit after tax for FY 2024-25",
+    "generated_queries": [
+      "What is the profit after tax for FY 2024-25",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the profit after tax for FY 2024-25",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "5,287.20",
+    "latency": 5.527757200004999
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the total income for FY 2024-25",
+    "generated_queries": [
+      "What is the total income for FY 2024-25",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the total income for FY 2024-25",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "78,604.24",
+    "latency": 5.540058099955786
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What are the total expenses for FY 2024-25",
+    "generated_queries": [
+      "What are the total expenses for FY 2024-25"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What are the total expenses for FY 2024-25",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 6,
+    "answer": "71,340.86",
+    "latency": 5.024215099983849
+  },
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "selected_strategy": "DECOMPOSE",
+    "rewritten_query": "Calculate the profit before tax using total income and expenses.",
+    "generated_queries": [],
+    "sub_queries": [
+      "Calculate the profit before tax using total income"
+    ],
+    "retrievals": [
+      {
+        "query": "Calculate the profit before tax using total income and expenses.",
+        "doc_count": 6
+      },
+      {
+        "query": "Calculate the profit before tax using total income",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 7,
+    "answer": "Not found in document",
+    "latency": 5.532593700045254
+  },
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the total financial assets value",
+    "generated_queries": [
+      "What is the total financial assets value",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the total financial assets value",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "53,246.34",
+    "latency": 5.75683410000056
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the total financial liabilities value",
+    "generated_queries": [
+      "What is the total financial liabilities value",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the total financial liabilities value",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "40,642.21",
+    "latency": 5.486889199994039
+  },
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "selected_strategy": "DECOMPOSE",
+    "rewritten_query": "What is the difference between financial assets and liabilities",
+    "generated_queries": [],
+    "sub_queries": [
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "What is the difference",
+      "financial assets"
+    ],
+    "retrievals": [
+      {
+        "query": "What is the difference between financial assets and liabilities",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "What is the difference",
+        "doc_count": 6
+      },
+      {
+        "query": "financial assets",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Financial assets represent resources owned by a company that are expected to bring future economic benefits, while financial liabilities are obligations of the company to transfer economic benefits to other entities.",
+    "latency": 6.1690021000104025
+  },
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What was the order value received for Adani’s Raigarh project",
+    "generated_queries": [
+      "What was the order value received for Adani’s Raigarh project"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What was the order value received for Adani’s Raigarh project",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 6,
+    "answer": "The total order value received for Adani's Raigarh project is 180.00 (for the Ash Handling Plant) + 222.00 (for the Coal Handling Plant) = 402.00.",
+    "latency": 5.62930630001938
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "What was the NTPC Pakri project value",
+    "generated_queries": [
+      "What was the NTPC Pakri project value",
+      "was ntpc pakri project value",
+      "BTL EPC Limited was ntpc pakri project value"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What was the NTPC Pakri project value",
+        "doc_count": 6
+      },
+      {
+        "query": "was ntpc pakri project value",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited was ntpc pakri project value",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 6.138917899981607
+  },
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "What challenges did the NTPC project face",
+    "generated_queries": [
+      "What challenges did the NTPC project face",
+      "challenges did ntpc project face",
+      "BTL EPC Limited challenges did ntpc project face"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What challenges did the NTPC project face",
+        "doc_count": 6
+      },
+      {
+        "query": "challenges did ntpc project face",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited challenges did ntpc project face",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "The NTPC Pakri project faced challenges due to international statutory compliances, law-and-order issues, political sensitivities, operational and logistical difficulties, and a critical modification required in the foundation design of TP13A.",
+    "latency": 5.73676230001729
+  },
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the company’s vision",
+    "generated_queries": [
+      "What is the company’s vision",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the company’s vision",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.277260100003332
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the company’s mission",
+    "generated_queries": [
+      "What is the company’s mission",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the company’s mission",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.428847400005907
+  },
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What industries are supported by the company’s engineering solutions",
+    "generated_queries": [
+      "What industries are supported by the company’s engineering solutions",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What industries are supported by the company’s engineering solutions",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Power, mining, fertiliser, and metal sectors",
+    "latency": 6.019343199965078
+  },
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "selected_strategy": "EXPAND",
+    "rewritten_query": "Summarize .",
+    "generated_queries": [
+      "Summarize .",
+      "summarize",
+      "BTL EPC Limited summarize"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Summarize .",
+        "doc_count": 6
+      },
+      {
+        "query": "summarize",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited summarize",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.532390000007581
+  },
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "Explain the growth of the company over the years.",
+    "generated_queries": [
+      "Explain the growth of the company over the years.",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "Explain the growth of the company over the years.",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "The Company's business model has been validated by profitable growth across more than a decade. Each time the Company scaled revenues, it generated superior amortization of fixed expenses, widening margins. Specifically, in the last financial year, the Company reported revenue growth of 22%, EBITDA growth of 21%, and PAT growth of 41%. This growth is attributed to larger contracts, upgraded manufacturing capabilities, greater in-house production, disciplined working capital management, and a focus on timely execution and project closure.",
+    "latency": 6.593883999972604
+  },
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "selected_strategy": "SIMPLE",
+    "rewritten_query": "What is the total income growth from FY 2023-24 to FY 2024-25",
+    "generated_queries": [
+      "What is the total income growth from FY 2023-24 to FY 2024-25",
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile"
+    ],
+    "sub_queries": [],
+    "retrievals": [
+      {
+        "query": "What is the total income growth from FY 2023-24 to FY 2024-25",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.504296900006011
+  },
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "selected_strategy": "DECOMPOSE",
+    "rewritten_query": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25",
+    "generated_queries": [],
+    "sub_queries": [
+      "BTL EPC Limited heavy engineering EPC company",
+      "BTL EPC Limited company profile",
+      "What is the difference in profit after tax",
+      "FY 2023-24",
+      "FY 2024-25"
+    ],
+    "retrievals": [
+      {
+        "query": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited heavy engineering EPC company",
+        "doc_count": 6
+      },
+      {
+        "query": "BTL EPC Limited company profile",
+        "doc_count": 6
+      },
+      {
+        "query": "What is the difference in profit after tax",
+        "doc_count": 6
+      },
+      {
+        "query": "FY 2023-24",
+        "doc_count": 6
+      },
+      {
+        "query": "FY 2024-25",
+        "doc_count": 6
+      }
+    ],
+    "final_doc_count": 12,
+    "answer": "Not found in document",
+    "latency": 5.855978599982336
+  }
+]

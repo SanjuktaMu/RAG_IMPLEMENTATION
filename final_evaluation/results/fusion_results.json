@@ -1,0 +1,622 @@
+[
+  {
+    "question": "What is BTL EPC Limited?",
+    "ground_truth": "BTL EPC Limited is an engineering, procurement and construction company in the heavy engineering sector.",
+    "answer": "BTL EPC Limited stands among India’s fastest-growing heavy engineering EPC companies, delivering integrated solutions across the core sectors of powering India’s economy. From complex project execution to precision-engineered fabrication, BTL EPC plays a pivotal role in India’s industrial transformation.",
+    "contexts": [
+      "Building for India. \nBanking on India. \nEmpowering Infrastructure. \nEnabling Progress. \nBTL EPC Limited stands among \nIndia’s fastest-growing heavy \nengineering EPC companies, \ndelivering integrated solutions \nacross the core sectors of \npowering India’s economy.\nFrom complex project execution to \nprecision-engineered fabrication, \nBTL EPC plays a pivotal role in \nIndia’s industrial transformation.\nOur investments in technology, \ntalent, and infrastructure validate \nour commitment to India’s growth \nambition and infrastructure \nrevolution.Corporate Overview\nPart one: What we are",
+      "the project by BHEL-ISG to execute \nmechanical, electrical, control \ninstrumentation, and auxiliary utility \nsystems. The scope involved full-\nscale EPC execution in a cross-border \nsetting, requiring detailed coordination \nwith foreign stakeholders and \nregulatory bodies. BTL EPC ensured \ncompliance, design integrity, and \nimplementation standards in line with \nBHEL and BIFPCL requirements. \nOvercome: Despite statutory hurdles, \npolitical unrest, as well as time and \ncost overruns, BTL EPC completed \nthe project. The plant has been in \ncommercial operation for over two",
+      "political unrest, as well as time and \ncost overruns, BTL EPC completed \nthe project. The plant has been in \ncommercial operation for over two \nyears. The project established BTL \nEPC credentials as a capable regional \nEPC contractor, extending its footprint \nbeyond India.  Activity: BTL EPC aggregated a \nstrong team. The team charted out \nsequential processes. The project \ncomprised the design and execution of \nthe mechanical transport and loading \narrangement from TP-10 (existing \nNTPC facility) to Banadag railway \nsiding. BTL EPC conducted end-to-\nend EPC activities (civil construction,",
+      "BTL EPC LIMITED | ANNUAL REPORT 2024-25LTD",
+      "small-sized of the next decade.\nThis evolution will put a premium on heavy \nengineering fabrication companies.\nThese companies will need to build their \nbusinesses faster to fabricate larger, \nadvanced and different equipment.\nThis is seeding an unprecedented \nopportunity for these heavy engineering \nsolution providing companies.\nCompanies like BTL EPC are attractively \nplaced to capitalise on this unprecedented \nopportunity.\n40  |  BTL EPC L TD Annual Report 2024- 25  |  41\nLTDCorporate Overview Financial Statements Statutory Reports",
+      "238  |  BTL EPC L TD\nNotes to Consolidated Financial Statements as at and for the year ended 31st March, 2025Note: The Company’s pending litigation comprises of claims against the Company and proceedings pending with tax/statutory/\ngovernment authorities. The Company has reviewed all its pending  litigations and proceedings and has made adequate \nprovisions, and disclosed the contingent liabilities, where applicable, in its consolidated financial statements. The Company does"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.373630000045523,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.6,
+      "reason": "The model answer provides additional details about BTL EPC Limited's role and projects but does not explicitly state that it is an engineering, procurement and construction company in the heavy engineering sector."
+    }
+  },
+  {
+    "question": "When was BTL EPC Limited founded?",
+    "ground_truth": "The company was founded in 1965.",
+    "answer": "BTL EPC Limited was founded in 1965 by Mr. S.K. Todi.",
+    "contexts": [
+      "country’s energy demands through \noffshore and onshore fields. ONGC is \nactively involved in energy transition \nthrough renewable and alternate \nenergy projects.Neelachal Ispat Nigam Limited:  \nUnder Tata Steel long products, \nthe Company is being revived to \nenhance steel production. Located \nin Odisha, it focuses on integrated \nsteel manufacturing and raw material \noptimisation.\nKrishak Bharati Cooperative Limited \n(KRIBHCO):  A national-level Indian \ncooperative society founded in 1980 \nby the Government of India. It is \nprimarily engaged in the production",
+      "(KRIBHCO):  A national-level Indian \ncooperative society founded in 1980 \nby the Government of India. It is \nprimarily engaged in the production \nand distribution of agricultural inputs, \nwith a focus on fertilisers, and operates \nmajor production facilities in Hazira, \nand Shahjahanpur. KRIBHCO aims to \nempower the farmer community by \nproviding quality agricultural products.\nBhabha Atomic Research Centre: \nIndia’s premier nuclear research facility \nunder the department of atomic energy. \nIt pioneers research in nuclear science, \nreactors, and isotope technologies.",
+      "Building for India. Banking on India.Our leadership\nBTL EPC Limited, the engineering arm \nof the Kolkata-based Shrachi Group, \nwas founded in 1965 by the visionary \nMr. S.K. Todi. Originally established as \nBengal Tools Limited, the Company \nevolved into a diversified EPC \ncontracting firm with a rich legacy in \nengineering excellence.\nToday, the business is managed \nby Mr. Ravi Todi, Promoter and \nManaging Director, with over 31 + \nyears of experience across various \nbusiness domains, Mr. Todi has been \ninstrumental in shaping the Group’s \ntrajectory. An alumnus of St. Xavier’s",
+      "Building for India. \nBanking on India. \nEmpowering Infrastructure. \nEnabling Progress. \nBTL EPC Limited stands among \nIndia’s fastest-growing heavy \nengineering EPC companies, \ndelivering integrated solutions \nacross the core sectors of \npowering India’s economy.\nFrom complex project execution to \nprecision-engineered fabrication, \nBTL EPC plays a pivotal role in \nIndia’s industrial transformation.\nOur investments in technology, \ntalent, and infrastructure validate \nour commitment to India’s growth \nambition and infrastructure \nrevolution.Corporate Overview\nPart one: What we are",
+      "years of experience across various \nbusiness domains, Mr. Todi has been \ninstrumental in shaping the Group’s \ntrajectory. An alumnus of St. Xavier’s \nCollege, Kolkata, he deepened his \nleadership acumen through the Owner \nPresident Management Program \n(OPM) at Harvard Business School.\nOur heritage\nBTL EPC is a dynamic, multidisciplinary \nengineering, procurement, and \nconstruction company. Its engineering \ndivision encompasses capabilities \nin project execution, as well as the \nmanufacture of precision-engineered \nproducts and process equipment for a \nrange of downstream industries. Since",
+      "India’s power, mining, fertiliser, and metal sectors, empowering \nthem to scale and address an unprecedented national opportunity.\nThe Company is respected for embracing challenging \nassignments, completing all projects engaging in timely projects \nhandover, high project quality benchmark and a culture of \ncontinuous improvement.  \nBy accelerating the building of national infrastructure and \ncatalysing national progress, we are engaged in doing two things. \nBuilding for India. Banking on India.Our leadership\nBTL EPC Limited, the engineering arm \nof the Kolkata-based Shrachi Group,"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.8398302000714466,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The answer matches the ground truth factually, stating that BTL EPC Limited was founded in 1965."
+    }
+  },
+  {
+    "question": "Who is the Managing Director of BTL EPC Limited?",
+    "ground_truth": "Ravi Todi is the Managing Director.",
+    "answer": "The Managing Director of BTL EPC Limited is Mr. Ravi Todi.",
+    "contexts": [
+      "governed by appropriate policies and procedures and that risks are identified, measured and managed in accordance with the \nGroup’s policies and risk objectives. The Board of Directors reviews and agrees policies for managing each of these risks, which \nare summarised below.",
+      " Measured at Fair Value Through Other Comprehensive Income (FVTOCI);\n  Measured at Fair Value Through Profit or Loss (FVTPL); and\n  Equity Instruments measured at Fair Value through Other Comprehensive Income (FVTOCI).\nFinancial assets are not reclassified subsequent to their initial recognition, except if and in the period the Group \nchanges its business model for managing financial assets.",
+      "Building for India. Banking on India.Our leadership\nBTL EPC Limited, the engineering arm \nof the Kolkata-based Shrachi Group, \nwas founded in 1965 by the visionary \nMr. S.K. Todi. Originally established as \nBengal Tools Limited, the Company \nevolved into a diversified EPC \ncontracting firm with a rich legacy in \nengineering excellence.\nToday, the business is managed \nby Mr. Ravi Todi, Promoter and \nManaging Director, with over 31 + \nyears of experience across various \nbusiness domains, Mr. Todi has been \ninstrumental in shaping the Group’s \ntrajectory. An alumnus of St. Xavier’s",
+      "Corporate Overview Statutory Reports Financial StatementsAnnual Report 2024- 25  |  135\nNotes to Standalone Financial Statements as at and for the year ended 31st March, 20251. Corporate and General Information\nBTL EPC Limited (the Company) is a Public Limited Company domiciled in India and incorporated under the provision of \nCompanies Act 1956. The Company has its registered office at 2, Jessore Road, Kolkata - 700028 and five manufacturing \nfacilities across West Bengal. The Company is primarily engaged in supply of highly engineered material handling refinery",
+      "For BTL EPC Limited\nSd/- Sd/-\nRavi Todi Avik Mukherjee \nManaging Director Executive Director  \nDIN:00080388  DIN: 10706114\nSd/- Sd/-\nSourab Kumar Jha Utkarsh Tiwari\nPlace: Kolkata Chief Financial Officer Company Secretary\nDate: 29.07.2025 Mem. No.: –A-60573",
+      "20  |  BTL EPC L TD Annual Report 2024- 25  |  21\nCorporate Overview Statutory Reports Financial Statements LTDOur business:  \nWater Management Division \nOverview\nThe water management division of BTL EPC delivers \ncomprehensive solutions for water and wastewater \ntreatment. This division plays a key role in executing \nstandalone water projects and integrating water systems \nwithin larger industrial and infrastructure EPC contracts. \nIt serves public and private sector clients, ensuring a \ncompliance with environmental norms and promoting"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.7510239999974146,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "What sectors does BTL EPC Limited operate in?",
+    "ground_truth": "Power, mining, fertiliser, and metal sectors.",
+    "answer": "BTL EPC Limited operates in a variety of sectors including:\n\n- PenstocksSteel and cement plants\n- Structural steel work\n- Hoppers\n- Silos\n- Conveyors\n- Ports and shipbuilding\n- Dock gates\n- Cranes\n- Modular hull blocks\n- Bulk Material Handling \n- Coal Chemical\n- Underground Coal Mining\n- Ash Handling \n- Power Transmission\n- Defense\n- Agrimech\n- Manufacturing\n- Special Business \n- Water Management \n- Railways and metro (Coach bodies, Bridges, Station infrastructure, Steel structures, E&M works)\n- Renewable energy (Wind turbine towers, Solar module mounting structures, Green hydrogen electrolyser housings)\n- Defense and aerospace (Warship hulls, Missile containers, Ground support equipment)\n- Roads and bridges (Pre-engineered bridges, Flyovers, Steel girders)",
+    "contexts": [
+      "PenstocksSteel and cement plants\n Structural steel work\n Hoppers\n Silos\n Conveyors\nPorts and shipbuilding\n Dock gates\n Cranes\n Modular hull blocksFrom energy to transport, multiple sectors \nare opening new opportunities for advanced \nsolutions",
+      "Our design and engineering teams are \nbacked by advanced infrastructure, \ncutting-edge technology, and over \n150 experienced project management \nprofessionals. We operate modern \nmachine shops equipped with \nprecision grinding, heat treatment, and \nfull-scale fabrication facilities, including \nsheet metalwork. This robust setup \nempowers us to deliver a wide range \nof high-quality products for diverse \ndownstream industries.\nOur manufacturing units are located \nin Kolkata (three), Durgapur Steel city \n(one) and Kharagpur (one). These",
+      "Our  businesses\nThe sectors where we are present represent attractive growth \nproxies of the world’s fastest growing major economy.\nBulk Material Handling \nCoal Chemical\n Underground Coal Mining\nAsh Handling \n Power Transmission\n Defense\nAgrimech\n Manufacturing\nSpecial Business \n Water Management \n10  |  BTL EPC L TD Annual Report 2024- 25  |  11\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "Building for India. \nBanking on India. \nEmpowering Infrastructure. \nEnabling Progress. \nBTL EPC Limited stands among \nIndia’s fastest-growing heavy \nengineering EPC companies, \ndelivering integrated solutions \nacross the core sectors of \npowering India’s economy.\nFrom complex project execution to \nprecision-engineered fabrication, \nBTL EPC plays a pivotal role in \nIndia’s industrial transformation.\nOur investments in technology, \ntalent, and infrastructure validate \nour commitment to India’s growth \nambition and infrastructure \nrevolution.Corporate Overview\nPart one: What we are",
+      "64  |  BTL EPC L TD Annual Report 2024- 25  |  65\nCorporate Overview Statutory Reports Financial Statements LTD\nA range of prominent \nIndian sectors now \noffer growing heavy \nengineering solution \nopportunities \nRailways and metro\n Coach bodies\n Bridges\n Station infrastructure\n Steel structures\n E&M worksRenewable energy\n Wind turbine towers\n Solar module mounting \nstructures\n Green hydrogen electrolyser \nhousings\nDefense and aerospace\n Warship hulls\n Missile containers\n Ground support equipmentRoads and bridges\n Pre-engineered bridges\n Flyovers\n Steel girders",
+      "Corporate  snapshot\nBTL EPC  LIMITED \nis an attractive proxy \nof India’s heavy \nengineering solutions \nsector.\nBTL EPC Limited is an established multi-decade player in India’s \nheavy engineering solutions sector.\nThe Company leverages five decades of experience to deliver \nend-to-end engineering solutions - from design and planning to \nprecision fabrication and on-site execution.\nThe Company services the growing critical equipment needs of \nIndia’s power, mining, fertiliser, and metal sectors, empowering \nthem to scale and address an unprecedented national opportunity."
+    ],
+    "rag_type": "fusion",
+    "latency": 3.089302000007592,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.5,
+      "reason": "The model answer lists many sectors but does not specifically mention the power, mining, fertiliser, and metal sectors as stated in the ground truth."
+    }
+  },
+  {
+    "question": "What type of services does BTL EPC Limited provide?",
+    "ground_truth": "Engineering, procurement, and construction services.",
+    "answer": "BTL EPC Limited provides end-to-end engineering solutions, including design and planning, precision fabrication, and on-site execution. They service the growing critical equipment needs of India’s power, mining, fertiliser, and metal sectors.",
+    "contexts": [
+      "and project management services \nfor steel plant modernisation, expansion, and external steel sector \nprojects.\nTechnip: A global engineering \nleader in energy transition, offering \nFEED, EPC, and PMC services for \nrefineries, petrochemicals, and \nhydrogen projects in India.\nToyo Engineering: A subsidiary \nof Japan’s Toyo, providing EPC \nand consultancy services in \nhydrocarbons, chemicals, fertilisers, \nand infrastructure, combining \nJapanese quality with Indian \nexecution.\nDevelopment Consultants \nPrivate Limited: A leading \nIndian engineering consultancy, \nthat provides planning, design,",
+      "known as Tantia Construction \nLimited)- 50.00 - - - -\nSale of Goods\nTwamev Construction and \nInfrastructure Limited (Formely \nknown as Tantia Construction \nLimited) *- 61.64 - - 212.28 -\nPurchase of goods and services\nTwamev Construction and \nInfrastructure Limited (Formely \nknown as Tantia Construction \nLimited) *- 290.12 - - - -\nSakura Exim Pvt. Ltd. * - - - - 155.59 -\nPayment made against goods \nand services\nSakura Exim Pvt. Ltd. - 5.00 - - 150.58 -\nPurchase of goods and services\nShrachi Agrimech Limited - - - 78.03 - -\nLoans to Subsidiary\nShrachi Agrimech Limited 137.32 - - 139.75 - -",
+      "Corporate  snapshot\nBTL EPC  LIMITED \nis an attractive proxy \nof India’s heavy \nengineering solutions \nsector.\nBTL EPC Limited is an established multi-decade player in India’s \nheavy engineering solutions sector.\nThe Company leverages five decades of experience to deliver \nend-to-end engineering solutions - from design and planning to \nprecision fabrication and on-site execution.\nThe Company services the growing critical equipment needs of \nIndia’s power, mining, fertiliser, and metal sectors, empowering \nthem to scale and address an unprecedented national opportunity.",
+      "120  |  BTL EPC L TD\nWe also provide those charged with governance with a \nstatement that we have complied with relevant ethical \nrequirements regarding independence, and to communicate \nwith them all relationships and other matters that may \nreasonably be thought to bear on our independence, and \nwhere applicable, related safeguards.\nOther Matters\nWe did not audit the financial statements and other financial \ninformation of the Company's Bangladesh Branch included \nin the accompanying standalone financial statements of the \nCompany whose financial statements reflect total assets of",
+      "BTL EPC LIMITED | ANNUAL REPORT 2024-25LTD",
+      "The project highlights BTL EPC’s \nadaptability and capability in fast-\npaced private sector projects. Adani-Raigarh \nCHP and AHP \nprojects\nAdani-Raigarh CHP and AHP projects\n16  |  BTL EPC L TD Annual Report 2024- 25  |  17\nCorporate Overview Statutory Reports Financial Statements LTD"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.0366173000074923,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.67,
+      "reason": "The model answer provides additional details about BTL EPC Limited's services but does not explicitly mention engineering, procurement, and construction (EPC) services as stated in the ground truth."
+    }
+  },
+  {
+    "question": "Name three marquee clients of BTL EPC Limited.",
+    "ground_truth": "Bharat Heavy Electricals Limited, NTPC, and Adani Power Limited.",
+    "answer": "Bharat Heavy Electricals Limited, National Thermal Power Corporation, Not found in document",
+    "contexts": [
+      "Our marquee \nclients\nWe are proud to serve India’s leading \npublic and private enterprises, powering \nthe nation’s growth across energy, \ninfrastructure, mining, and manufacturing.Bharat Heavy Electricals Limited: A \nMaharatna PSU, the Company is India’s \nlargest engineering and manufacturing \ncompany in the energy and \ninfrastructure sectors with strong EPC \ncapabilities. It offers end-to-end services \nfor power projects and is expanding \ninto non-conventional energy and digital \ntechnologies.\nNational Thermal Power Corporation: \nA Maharatna PSU under the Ministry of",
+      "amalgamation/merger and also company \nhas effected name change to BTL EPC Ltd, so \nname change in the deed is under process at \nappropriate Authority. However, in BLRO record \nname Property is updated in the name of BTL \nEPC Limited.\nProperty, \nplant & \nequipmentFreehold \nLand at 2, \nJessore \nRoad, \nKolkata - \n700028.2,562.16 M/s. Bengal \nTools \nLimitedNo 1997 to \n1998The name of the Company has been changed \nto BTL EPC Limited as per ROC order, so \nname change in the deed is under process at \nappropriate Authority. However, in BLRO record \nname Property is updated in the name of BTL",
+      "extended our annual turnover past \nH200 Crore.\n2013:  BTL transformed into BTL EPC \nLtd. This new name reflected our \nposition as a complete EPC contractor, \nreflecting our diverse projects across \nindustries.2014: Strategically ventured into Power \nTransmission EPC projects for state \nelectricity companies, securing three \ninitial projects and qualifying for high-\nvoltage 400 kV power projects.\n2018:  Expanded into the ordinance \nfactory sector, supplying and \ncommissioning specialised machines \nfor defence needs. Delivered a 10-\nton ESR plant project and secured",
+      "relaxation in some pre-qualification \ncriteria from clients and explore \npossibilities of tie-ups.Constraints in securing qualified \ncollaboration partners: There is limited \navailability of qualified collaborator / \nconsortium partners.\nMitigation:  The Company collaborated \nwith a world renowned ash handling \ncompany namely United Conveyor \nCorporation LLP ,USA. Challenges and \nmitigations\nStrengths \nBTL EPC’s presence in the ash handling segment is \nsupported by key strengths:\n Experienced engineers with a domain expertise in \nash handling systems.",
+      "BLRO record name Property is updated in the name of \nBTL EPC Limited.\nProperty, plant & \nequipmentFreehold Land at 9A, \nK B Sarani, Kolkata - \n700080.1,002.34 M/s. Bengal \nTools LimitedNo 2010 The name of the Company has been changed to BTL EPC \nLimited as per ROC order, so name change in the deed is \nunder process at appropriate Authority.\nInvestment \nPropertyFreehold Land at \nAshok Nagar79.05 M/s Bengal \nCylinder & \nContainer Pvt. \nLtd. and M/s \nGNB Credit Pvt. \nLtd.No 2009 to 2011 The Company has acquired property through \namalgamation/merger and also company has effected",
+      "24  |  BTL EPC L TD Annual Report 2024- 25  |  25\nCorporate Overview Statutory Reports Financial Statements LTDOur business: Agrimech Division  \nOverview\nBTL EPC’s Agrimech division has been committed to advance \nfarm mechanisation in India for over three decades, with \na focus on the needs of small and marginal farmers. The \ndivision offers a range of quality, Made-in-India agricultural \nequipment aimed at improving farm productivity. Backed by a \nstrong network of seven branch offices and over 500 dealers \nacross the country, the division ensures easy accessibility,"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.8750224999384955,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.67,
+      "reason": "The model answer correctly identifies two of the marquee clients (Bharat Heavy Electricals Limited and National Thermal Power Corporation) but fails to mention Adani Power Limited, which is part of the ground truth."
+    }
+  },
+  {
+    "question": "Which PSU is India's largest power utility mentioned as a client?",
+    "ground_truth": "National Thermal Power Corporation (NTPC).",
+    "answer": "National Thermal Power Corporation (NTPC) is mentioned as a client and is described as India’s largest power utility in the context provided.",
+    "contexts": [
+      "into non-conventional energy and digital \ntechnologies.\nNational Thermal Power Corporation: \nA Maharatna PSU under the Ministry of \nPower, the Company is India’s largest \npower utility with a diverse portfolio \nof thermal, hydro, solar, and wind \nprojects. It is central to the country’s \nenergy supply and is targeting 60 GW of \nrenewable capacity by 2032 as a part of \nits green transition commitment.\nAdani Power Limited:  APL is the largest \nprivate thermal power producer in India \nand a part of the Adani Group. As of \nmid 2025, its operational capacity was \naround 15,250–17,550 MW, spread",
+      "The manufacturing division at BTL \nEPC is a leading player in providing \nspecialised solutions for coal mine \nconveyor applications. We design and \nproduce dual-drive conveyors/drive \nheads in various power combinations, \nranging from 2 x 37 KW to an industry-\nleading 2 x 600 KW, marking the \nhighest installed motor power in India.Over the last 30 years, we have \nsupplied our own make drive heads \nand conveyors to all coal india and its \nsubsidiaries as well as private mines.\nCollieries Total no. of \nconveyors\nSouth Eastern Coalfields \n(SECL)   250  \nMahanadi Coalfields (MCL)         21",
+      "Our marquee \nclients\nWe are proud to serve India’s leading \npublic and private enterprises, powering \nthe nation’s growth across energy, \ninfrastructure, mining, and manufacturing.Bharat Heavy Electricals Limited: A \nMaharatna PSU, the Company is India’s \nlargest engineering and manufacturing \ncompany in the energy and \ninfrastructure sectors with strong EPC \ncapabilities. It offers end-to-end services \nfor power projects and is expanding \ninto non-conventional energy and digital \ntechnologies.\nNational Thermal Power Corporation: \nA Maharatna PSU under the Ministry of",
+      "India and the States of Jharkhand \nand West Bengal, the Company is a \nkey power utility in eastern India. It \noperates thermal and hydel plants \nwhile supporting flood control, \nirrigation, and grid modernisation in the \nDamodar valley region.\nHindustan Urvarak and Rasayan \nLimited (HURL):  A joint venture \ncompany of Coal India Limited, NTPC \nLimited and Indian Oil Corporation \nLimited as lead promoters with \nFertiliser Corporation of India Limited \nand Hindustan Fertiliser Corporation \nLimited as other partners.\nTalcher Fertilisers Limited: A joint \nventure company established to revive",
+      "the power transmission network \nin Uttarakhand. It ensures reliable \nelectricity supply across the state \nthrough the development, operation, \nand maintenance of high-voltage \ntransmission systems. The corporation plays a key role in integrating \nrenewable energy projects into the \nState’s grid.\nTata Steel Limited:  A flagship \ncompany of the Tata Group,  the \nCompany is one of the world’s \nlargest steel producers with a strong \nglobal presence. It has been a \npioneer in adopting sustainable steel \nproduction practices and technological \ninnovations.\nJharkhand Urban Infrastructure",
+      "output. Operating through eight \nsubsidiaries, it plays a vital role in energy \nsecurity, while advancing sustainable \nand digital mining practices.Steel Authority of India Limited:  A \nMaharatna PSU under the Ministry of \nSteel, the Company is one of India’s \nlargest steel producers with integrated \nplants across the country. It plays a \nkey role in sectors like infrastructure, \ndefense, and railways, while focusing \non modernisation and capacity growth.\nIndian Oil Corporation Limited (IOCL):  \nIndia’s largest oil refining and marketing \ncompany, IOCL operates across the"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.0743544000433758,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer correctly identifies National Thermal Power Corporation (NTPC) as India's largest power utility mentioned as a client."
+    }
+  },
+  {
+    "question": "Which company contributes over 80% of India’s coal output?",
+    "ground_truth": "Coal India Limited.",
+    "answer": "Coal India Limited",
+    "contexts": [
+      "ensure real-time reconciliation of coal \nreceipts and consumption.Crushing and \nscreening systemsThen:  Basic single-stage crushers \n(like ring granulators). Oversized coal \noften bypassed or manually reduced. \nNow: Two-stage crushing systems \nfor precise size control (example, <25 \nmm). Roll crushers, hammer mills, and impactors with adjustable output \nsizes. Vibrating screens integrated for \noversize separation before bunkering \nor milling.\nScaling in capacity \nand sizeThen:  Early plants handled a few \nhundred tons per hour (TPH) of \ncoal using belt conveyors, manual",
+      "sustainable growth.\nThermal power provides over 70% of \nactual electricity generated, due to intermittency of renewables. India’s \nthermal power generation, especially \ncoal-based power, will remain relevant \nacross the years. It will act as a \nstabilising backbone to support the \ntransition to renewable energy. It will be \nmore focused on efficiency, emissions \ncontrol, and reliability.\nBase load stability: Thermal power will \ncontinue to provide stable, 24x7 base \nload to support the growing renewable \nenergy mix.\nRecent policy shifts:  India plans to \nadd 80 GW of coal capacity by 2032,",
+      "and a part of the Adani Group. As of \nmid 2025, its operational capacity was \naround 15,250–17,550 MW, spread \nacross thermal plants in Gujarat, \nMaharashtra, Karnataka, Rajasthan, \nChhattisgarh, Madhya Pradesh, \nJharkhand, and Tamil Nadu. The \nCompany intends to expand to 42,000 \nMW by 2032.\nCoal India Limited:  A Maharatna PSU \nunder the Ministry of Coal, the Company \nis the world’s largest coal producer, \ncontributing over 80% of India’s coal \noutput. Operating through eight \nsubsidiaries, it plays a vital role in energy \nsecurity, while advancing sustainable",
+      "load to support the growing renewable \nenergy mix.\nRecent policy shifts:  India plans to \nadd 80 GW of coal capacity by 2032, \nmainly through supercritical and ultra-supercritical units as well as the \nreplacement of old inefficient plants. \nNTPC and other companies have \nrevived stalled projects due to rising \npower demand.\nIndustrial and urban demand:  \nRapid urbaniaation, electrification \nof transport, and industrial growth \n(cement, steel, and chemicals) will \nrequire more power.\nThe bottom line:  Thermal power \nmay decline in relative share, even as",
+      "Why the BTL EPC \nbusiness model is secure:   \nCoal still has a future.Looking ahead \nOverview\nBTL EPC generates a sizable portion of \nits revenues linked to coal handling in \nthermal power plants and underground \nmines.\nEven as there is a global movement \naway from coal towards renewable \nenergy forms, India has sought an \nextension until 2070 to emerge as \na Net Zero nation. This provides an \nopportunity-driven company like BTL \nEPC with multi-decade prospects of \nsustainable growth.\nThermal power provides over 70% of \nactual electricity generated, due to intermittency of renewables. India’s",
+      "The manufacturing division at BTL \nEPC is a leading player in providing \nspecialised solutions for coal mine \nconveyor applications. We design and \nproduce dual-drive conveyors/drive \nheads in various power combinations, \nranging from 2 x 37 KW to an industry-\nleading 2 x 600 KW, marking the \nhighest installed motor power in India.Over the last 30 years, we have \nsupplied our own make drive heads \nand conveyors to all coal india and its \nsubsidiaries as well as private mines.\nCollieries Total no. of \nconveyors\nSouth Eastern Coalfields \n(SECL)   250  \nMahanadi Coalfields (MCL)         21"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.4915359999286011,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "Which client operates across the hydrocarbon value chain?",
+    "ground_truth": "Indian Oil Corporation Limited.",
+    "answer": "Indian Oil Corporation Limited (IOCL) operates across the entire hydrocarbon value chain.",
+    "contexts": [
+      "Indian Oil Corporation Limited (IOCL):  \nIndia’s largest oil refining and marketing \ncompany, IOCL operates across the \nentire hydrocarbon value chain. It \nplays a vital role in the nation’s energy \nsecurity, supplying fuel, lubricants, and \npetrochemicals.\nNumaligarh Refinery Limited: A public \nsector refinery located in Assam, \nknown for its eco-friendly operations. \nIt processes crude oil into high-value \npetroleum products for Northeast India \nand beyond.\nBrahmaputra Cracker and Polymer \nLimited:  A central PSU engaged in \nproducing polymers from natural gas",
+      "and real estate company. Its operations \ncover energy, power plants, coal \nmining, roads, railways, and property \ndevelopment. The Company is known \nfor delivering large projects across \nmultiple sectors.\nUltraTech Cement Limited:  India’s \nlargest producer of grey cement, white \ncement, and ready-mix concrete. It \noperates an extensive network of \nplants and terminals across India and \noverseas. Our certifications Our consultants\nEngineers India Limited:  A leading \nengineering consultancy and EPC \nfirm under the Ministry of Petroleum \nand Natural Gas, specialising in",
+      "efficiency, client satisfaction, and our reputation for \ndelivering safe and responsible operations. \n82  |  BTL EPC L TD Annual Report 2024- 25  |  83\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "output. Operating through eight \nsubsidiaries, it plays a vital role in energy \nsecurity, while advancing sustainable \nand digital mining practices.Steel Authority of India Limited:  A \nMaharatna PSU under the Ministry of \nSteel, the Company is one of India’s \nlargest steel producers with integrated \nplants across the country. It plays a \nkey role in sectors like infrastructure, \ndefense, and railways, while focusing \non modernisation and capacity growth.\nIndian Oil Corporation Limited (IOCL):  \nIndia’s largest oil refining and marketing \ncompany, IOCL operates across the",
+      "India and the States of Jharkhand \nand West Bengal, the Company is a \nkey power utility in eastern India. It \noperates thermal and hydel plants \nwhile supporting flood control, \nirrigation, and grid modernisation in the \nDamodar valley region.\nHindustan Urvarak and Rasayan \nLimited (HURL):  A joint venture \ncompany of Coal India Limited, NTPC \nLimited and Indian Oil Corporation \nLimited as lead promoters with \nFertiliser Corporation of India Limited \nand Hindustan Fertiliser Corporation \nLimited as other partners.\nTalcher Fertilisers Limited: A joint \nventure company established to revive",
+      "and beyond.\nBrahmaputra Cracker and Polymer \nLimited:  A central PSU engaged in \nproducing polymers from natural gas \nin Assam. It operates a petrochemical \ncomplex in Lepetkata, providing \na boost to the region’s industrial \ndevelopment. BCPL is a subsidiary of \nGAIL (India) Ltd.\nOil and Natural Gas Corporation \nLimited:  India’s largest oil and gas \nexploration and production company. \nIt plays a critical role in meeting the \ncountry’s energy demands through \noffshore and onshore fields. ONGC is \nactively involved in energy transition \nthrough renewable and alternate"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.7956750000594184,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer correctly identifies Indian Oil Corporation Limited as operating across the entire hydrocarbon value chain, matching the ground truth."
+    }
+  },
+  {
+    "question": "What is the total employee strength of the company?",
+    "ground_truth": "720 employees.",
+    "answer": "The total employee strength stood at 720.",
+    "contexts": [
+      "and Consarc Engineering.\nOur workforce\nBTL EPC is driven by a skilled and \nexperienced workforce across its \nmanufacturing and EPC operations, \nmaking it a trusted player in the heavy \nengineering solutions sector. The total \nemployee strength stood at 720, with \nan average employee age of 31 years.Our vision \nTo be the engineering \npartner of choice in India’s \ninfrastructure journey of value \nthrough innovation, precision, \nand excellence in every project \nwe undertake. \nOur mission  \nTo consistently deliver high-\nquality, on-time projects that \nstrengthen India’s industrial \nfoundation.",
+      "Year  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees          \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nWomen employees \nas  a % of total \nemployees   2.07  1.73  2.13  2.93 \nEmployee productivity            \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nRevenue per \nemployee ( H Lacs)   56  90  105  109\nPeople cost              \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nPeople cost as a % \nof revenues  from \noperation8.1 6.1 5.4 5.4\n88  |  BTL EPC L TD Annual Report 2024- 25  |  89",
+      "assigned. Reviews were conducted regularly; engineers and workers were \nrecognised every six months. \nImprovement:  The initiative fostered \ntotal employee involvement, resulting in \nnoticeable improvements in workplace \nsafety and housekeeping standards.\nOutcome:  Worker morale improved. \nReality: In 2019–20, the Company’s \nproduction capacity for key components \nwas constrained with rollers at 8,000 \nnumbers /month, pulleys at 110 numbers \n/month, gear boxes at 20 numbers /year, \ntravelling trippers at 10 numbers /year, and \nstructural items at 3,000 tonnes/year.",
+      "company carries out a funding valuation based on the latest employee data provided by the Group Any deficit in the assets \narising as a result of such valuation is funded by the Group.",
+      "These goals reinforce the Company’s \nintegrated strategy for sustainable \ngrowth and community development.\nOur health commitment\nBTL EPC emphasises employee \nhealth and safety, particularly for field \nworkers exposed to harsh weather and physical hazards. To mitigate these \nrisks, the Company implemented safety \nprotocols, on-site first-aid, emergency \nmedical support, and comprehensive \nhealth insurance. Regular health \nmonitoring, training, and wellness \nprograms support employee well-being. \nThe effectiveness of these initiatives \nis tracked through incident data,",
+      "leadership readiness.The big numbers\nEmployee benefit expenses  \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployee benefit \nexpenses ( H cr) 26.55 31.59 34.77 42.54\nEmployees    \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployees  579  578  609  717\nTraining hours      \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAggregate person \ntraining hours440 420 540  660 \nAverage organisational age        \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.8682777000358328,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "What is the average employee age?",
+    "ground_truth": "31 years.",
+    "answer": "The average employee age is 31 years.",
+    "contexts": [
+      "and Consarc Engineering.\nOur workforce\nBTL EPC is driven by a skilled and \nexperienced workforce across its \nmanufacturing and EPC operations, \nmaking it a trusted player in the heavy \nengineering solutions sector. The total \nemployee strength stood at 720, with \nan average employee age of 31 years.Our vision \nTo be the engineering \npartner of choice in India’s \ninfrastructure journey of value \nthrough innovation, precision, \nand excellence in every project \nwe undertake. \nOur mission  \nTo consistently deliver high-\nquality, on-time projects that \nstrengthen India’s industrial \nfoundation.",
+      "Year  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees          \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nWomen employees \nas  a % of total \nemployees   2.07  1.73  2.13  2.93 \nEmployee productivity            \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nRevenue per \nemployee ( H Lacs)   56  90  105  109\nPeople cost              \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nPeople cost as a % \nof revenues  from \noperation8.1 6.1 5.4 5.4\n88  |  BTL EPC L TD Annual Report 2024- 25  |  89",
+      "leadership readiness.The big numbers\nEmployee benefit expenses  \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployee benefit \nexpenses ( H cr) 26.55 31.59 34.77 42.54\nEmployees    \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployees  579  578  609  717\nTraining hours      \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAggregate person \ntraining hours440 420 540  660 \nAverage organisational age        \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees",
+      "Mr. Ravi Todi, Mr. Sunil Mittra, \nMr. Subrata Paul, Mr. Sourav \nDaspatnaik, Ms. Arundhuti Dhar\nAverage age of Directors:  57 \nyears\nCombined experience of Board \nMembers:  210+ years across \nvarious sectorsDirectors’ Age, Education and \nProfessional Experience\nMr. Sunil Kumar Mittra:  76 years \n| IIT-BHU (Mechanical), MBA (CU), \nIIM-A | 41+ years in engineering & \nquality systems\nMr. Ravi Todi:  56 years | B.Com. \n(St. Xavier’s), Executive MBA from \nHarvard Business School, Boston | \n31+ years in strategic leadership & \nentrepreneurship\nMs. Rhea Todi:  26 years | B.Sc.",
+      "Mortality Rate 100% of IALM  \n2012-14100% of IALM  \n2012-14100% of IALM  \n2012-14100% of IALM  \n2012-14\nAttrition rate 1.00% 1.00% 1.00% 1.00%\n47.2.10. The estimates of future salary increases, considered in actuarial valuation, take account of inflation, seniority, promotion \nand other relevant factors, such as supply and demand in the employment market.\n47.2.11. At 31st March 2025, the weighted average duration of the defined benefit obligation was 10 years (previous year 10",
+      "assigned. Reviews were conducted regularly; engineers and workers were \nrecognised every six months. \nImprovement:  The initiative fostered \ntotal employee involvement, resulting in \nnoticeable improvements in workplace \nsafety and housekeeping standards.\nOutcome:  Worker morale improved. \nReality: In 2019–20, the Company’s \nproduction capacity for key components \nwas constrained with rollers at 8,000 \nnumbers /month, pulleys at 110 numbers \n/month, gear boxes at 20 numbers /year, \ntravelling trippers at 10 numbers /year, and \nstructural items at 3,000 tonnes/year."
+    ],
+    "rag_type": "fusion",
+    "latency": 0.894694900023751,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "How many manufacturing units does the company have in West Bengal?",
+    "ground_truth": "Five manufacturing units.",
+    "answer": "The company has five state-of-the-art manufacturing units in West Bengal.",
+    "contexts": [
+      "downstream industries.\nOur manufacturing units are located \nin Kolkata (three), Durgapur Steel city \n(one) and Kharagpur (one). These \nunits are supported by a nationwide vendor network of 70+ vendor-partners, \nensuring seamless materials \nprocurement and timely projects \ncompletion.\nOur agro-assembly units are present \nin Kolkata, Hyderabad, Cuttack, \nFaridabad, Guwahati, Trichy, and \nBangalore, with branch offices in \nKolkata, Guwahati, Cuttack, Hyderabad, \nFaridabad, and Lucknow.\nOur collaborations\nBTL EPC enjoys strong international \nlinkages that help draw global expertise",
+      "of the production process for rollers and \npulleys.\nImprovement:  Roller production capacity \nincreased from 8,000 to 12,000 units per \nmonth; pulley production capacity improved \nfrom 110 to 150 units per month. \nOutcome:  This highlighted the value \nof data-driven process analysis and in \nworkflow management improvements. \nReality: In FY 2020–21, the Company \noperated with limited production capacity \n- in-house manufacturing capacity of \napproximately 5,000 tonnes per year and no \noutsourcing. \nInitiative: To enhance output, the Company \nbegan to outsource manufacturing. As part",
+      "Our design and engineering teams are \nbacked by advanced infrastructure, \ncutting-edge technology, and over \n150 experienced project management \nprofessionals. We operate modern \nmachine shops equipped with \nprecision grinding, heat treatment, and \nfull-scale fabrication facilities, including \nsheet metalwork. This robust setup \nempowers us to deliver a wide range \nof high-quality products for diverse \ndownstream industries.\nOur manufacturing units are located \nin Kolkata (three), Durgapur Steel city \n(one) and Kharagpur (one). These",
+      "new heights in engineering excellence, \ndelivering critical components for \ninfrastructure projects in India and \nbeyond.\nOur infrastructure and \nstrategic presence\nWith five state-of-the-art manufacturing \nunits in West Bengal and a pan-\nIndia presence, we are strategically \npositioned near industrial hubs, raw \nmaterial sources, and talent clusters. \nThis provides us with a strong logistical \nedge and enhances our execution \ncapabilities.\nOur design and engineering teams are \nbacked by advanced infrastructure, \ncutting-edge technology, and over \n150 experienced project management",
+      "(PLI) schemes. These policies aim to transform India into a global \nmanufacturing hub by encouraging \ndomestic and foreign investment, \nfostering innovation, and developing \nworld-class infrastructure.\nState-of-the-art manufacturing facilities \nare spread over more than 10,00,000 \nsquare feet in Kolkata, Kharagpur, \nand Durgapur comprising modern \nequipment and skilled workforce \nsupported by a large vendor base.\nThe Company developed versatile \nmanufacturing capabilities by \nproducing a spectrum of heavy \nengineering components, including the \nfollowing:\n Belt conveyor systems and",
+      "manufacturing operations – operations \nthat pose no threat to the ecology, \nworkers or neighbouring communities-\nwith adequate documentation of \nimprovements.\nWhy our sector is \nbecoming increasingly \ncomplex\nShorter lead timesDemand for larger and more \ncomplex equipment\nHigh captive manufacturing \ncapabilityTighter tolerances and \nhigher standards\nStrong eco-system support Automation \nAll-round sustainabilityCoal handling plant for Bangaldesh India Friendship Power Company Limited (BIFPCL) Bangaldesh Maitree\n44  |  BTL EPC L TD Annual Report 2024- 25  |  45"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.6000624999869615,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer correctly states that the company has five state-of-the-art manufacturing units in West Bengal, which matches the ground truth."
+    }
+  },
+  {
+    "question": "List the locations of manufacturing units.",
+    "ground_truth": "Kolkata (three), Durgapur (one), and Kharagpur (one).",
+    "answer": "Our manufacturing units are located in Kolkata (three), Durgapur Steel city (one) and Kharagpur (one).",
+    "contexts": [
+      "downstream industries.\nOur manufacturing units are located \nin Kolkata (three), Durgapur Steel city \n(one) and Kharagpur (one). These \nunits are supported by a nationwide vendor network of 70+ vendor-partners, \nensuring seamless materials \nprocurement and timely projects \ncompletion.\nOur agro-assembly units are present \nin Kolkata, Hyderabad, Cuttack, \nFaridabad, Guwahati, Trichy, and \nBangalore, with branch offices in \nKolkata, Guwahati, Cuttack, Hyderabad, \nFaridabad, and Lucknow.\nOur collaborations\nBTL EPC enjoys strong international \nlinkages that help draw global expertise",
+      "of the production process for rollers and \npulleys.\nImprovement:  Roller production capacity \nincreased from 8,000 to 12,000 units per \nmonth; pulley production capacity improved \nfrom 110 to 150 units per month. \nOutcome:  This highlighted the value \nof data-driven process analysis and in \nworkflow management improvements. \nReality: In FY 2020–21, the Company \noperated with limited production capacity \n- in-house manufacturing capacity of \napproximately 5,000 tonnes per year and no \noutsourcing. \nInitiative: To enhance output, the Company \nbegan to outsource manufacturing. As part",
+      "Our design and engineering teams are \nbacked by advanced infrastructure, \ncutting-edge technology, and over \n150 experienced project management \nprofessionals. We operate modern \nmachine shops equipped with \nprecision grinding, heat treatment, and \nfull-scale fabrication facilities, including \nsheet metalwork. This robust setup \nempowers us to deliver a wide range \nof high-quality products for diverse \ndownstream industries.\nOur manufacturing units are located \nin Kolkata (three), Durgapur Steel city \n(one) and Kharagpur (one). These",
+      "manufacturing capabilities by \nproducing a spectrum of heavy \nengineering components, including the \nfollowing:\n Belt conveyor systems and \ncomponents\n Equipment for bulk material handling \nprojects Ash Handling Equipment\n Pressure Vessels\n Ducts\n Tanks\n Refinery columns\n Steel silos\nThe Company leverages cost-efficient \nin-house manufacturing facilities to \nsupport EPC operations, providing a \ncompetitive edge over peers reliant on \nexternal procurement.\nThe Company possesses a strong \nproduction capability with over 24,000",
+      "new heights in engineering excellence, \ndelivering critical components for \ninfrastructure projects in India and \nbeyond.\nOur infrastructure and \nstrategic presence\nWith five state-of-the-art manufacturing \nunits in West Bengal and a pan-\nIndia presence, we are strategically \npositioned near industrial hubs, raw \nmaterial sources, and talent clusters. \nThis provides us with a strong logistical \nedge and enhances our execution \ncapabilities.\nOur design and engineering teams are \nbacked by advanced infrastructure, \ncutting-edge technology, and over \n150 experienced project management",
+      "The Company provides end-to-end \nfabrication solutions, covering the \nfull cycle from material handling to \ndispatch, backed by in-house design \nand engineering competencies.State-of-the-art manufacturing excellence"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.8096697001019493,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "What is the revenue from operations for FY 2024-25?",
+    "ground_truth": "78,259.46",
+    "answer": "The revenue from operations for FY 2024-25 is H 78,259.46 lacs.",
+    "contexts": [
+      "manufacturing operations – operations \nthat pose no threat to the ecology, \nworkers or neighbouring communities-\nwith adequate documentation of \nimprovements.\nWhy our sector is \nbecoming increasingly \ncomplex\nShorter lead timesDemand for larger and more \ncomplex equipment\nHigh captive manufacturing \ncapabilityTighter tolerances and \nhigher standards\nStrong eco-system support Automation \nAll-round sustainabilityCoal handling plant for Bangaldesh India Friendship Power Company Limited (BIFPCL) Bangaldesh Maitree\n44  |  BTL EPC L TD Annual Report 2024- 25  |  45",
+      "49.1. Revenue from contracts with customers disaggregated based on revenue stream and by reportable segment.\n(H in Lacs)\nParticulars For the year ended  \n31st March, 2025For the Year ended  \n31st March 2024\nRevenue based on Segment\nEngineering\nIndia 71,226.92 58,475.42\nOutside India 277.18 801.57\nAgro Machinery\nIndia 6,730.39 4,785.19\nOutside India 24.97 66.94\nTotal 78,259.46 64,129.12\n49.2. Contract Assets and liabilities (H in Lacs)\nParticulars As at  \n31st March 2025As at  \n31st March 2024\nContract Balances\nContract Assets 32,345.78 27,382.69\nLess: Impairment allowances 2,819.16 1,041.51",
+      "equipment in regions with low levels of mechanisation, \nthereby improving accessibility and promoting inclusive \nagricultural growth. \nGrowth\nThe Agrimech division recorded a robust 32% year-on-year \nrevenue growth in FY 2024-25. This strong performance \nreflects increased market demand and improved sales \nexecution. Strengths\n Strong leadership and strategic \nguidance from the senior \nmanagement.\n Clear vision and execution from a \ncommitted leadership team.Highlights, FY 2024-25\n Achieved significant year-over-year \nrevenue growth of 32%.\n Total sales: Over 8,000 weeders and",
+      "Corporate Overview Statutory Reports Financial StatementsAnnual Report 2024- 25  |  199Consolidated Statement of Profit & Loss for the year ended 31st March, 2025\n(H In Lacs)\nParticulars Note No. For the year ended  \n31st March, 2025For the year ended  \n31st March, 2024\nINCOME\nRevenue from Operations 32 78,259.46 64,129.12\nOther Income 33 344.78 396.86\nTotal Income (A) 78,604.24 64,525.98\nEXPENSES\nCost of Material Consumed 34 21,310.87 15,307.64\nPurchases of Stock-in-Trade 35 27,345.08 24,129.25\nChanges in Inventories of Finished goods, Work-in-Progress and \nStock-in-Trade36 (453.88) 231.25",
+      "Corporate Overview Statutory Reports Financial StatementsAnnual Report 2024- 25  |  131Standalone Statement of Profit & Loss for the year ended 31st March, 2025\n(H In Lacs)\nParticulars Note No. For the year ended  \n31st March, 2025For the year ended  \n31st March, 2024\nINCOME\nRevenue from Operations 32 78,259.46 64,129.12\nOther Income 33 344.78 396.86\nTotal Income (A) 78,604.24 64,525.98\nEXPENSES\nCost of Material Consumed 34 21,310.87 15,307.64\nPurchases of Stock-in-Trade 35 27,345.08 24,132.36\nChanges in Inventories of Finished goods, Work-in-Progress and \nStock-in-Trade36 (453.99) 231.62",
+      "Revenue from Operations includes approximately H 51,905.12 lacs (PY: H 51,675.07 lacs) pertaining to sales to the company’s \ntop two customers. No other single customer contributed 10% or more of the Company’s revenue in year ended March 31,2025 \nand March 31, 2024.\n(A) Primary Segment Disclosure (H in Lacs)\nParticulars 31-03-2025 31-03-2024\nEngineering Agro Machinery Total Engineering Agro Machinery Total\nRevenue from Operations 71,504.10 6,755.36 78,259.46 59,276.99 4,852.13 64,129.12\nSegment Result (PBIT) 10,381.82 458.89 10,840.71 9,240.86 (390.13) 8,850.73\nLess:"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.0543038001051173,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "What is the profit after tax for FY 2024-25?",
+    "ground_truth": "5,287.20",
+    "answer": "The profit after tax for FY 2024-25 is H52.87 Crore.",
+    "contexts": [
+      "coverage ratio of 3.38x \nfor FY 2024-25, which is \nimproved by 0.63x.\n2.19\n2.73\n3.36\nFY22 FY23 FY24 FY25Profit after tax  \n(H in cr)\n6.71\nMeaning  \nThe amount left after a \ncompany has paid all \nits operating and non-\noperating expenditures, \nother liabilities, and taxes \nis known as profit after \ntax. This profit is either \nallocated to the entity’s \nshareholders as dividend or \nheld in reserve as retained \nprofit.\nImportance \nProfit after tax represents \nthe actual profit a company \nearns in a financial year. It \nreflects the cost structure, \nbusiness model, and \noverall competitiveness.",
+      "Income tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nEffect of change in tax rate - 68.32\nTax relating to earlier years (147.45) -\nOthers (500.55) 66.83\n(561.94) 136.60\nIncome tax expense in Statement of Profit & Loss 1,976.18 1,737.43\n*Applicable\tIncome\tTax\trate\tfor\tFinancial\tYear\tending\t31st\tMarch,\t2025\tis\t34.944%\tand\t31st\tMarch,\t2024\tis\t29.12%.\n42. Other Comprehensive Income (H in Lacs)\nParticulars For the year ended  \n31st March, 2025For the Year ended  \n31st March 2024\nItems that will not be reclassified to profit or loss",
+      "31st March 2024\nProfit from before income tax expense 7,228.90 5,429.20\nIncome Tax rate* 34.94% 29.12%\nEstimated Income Tax Expense 2,525.78 1,580.98\nTax effect of adjustments to reconcile expected Income tax expense to reported \nIncome tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nTax Rate difference on certain items - 68.32\nTax relating to earlier years (147.45) -\nOthers (488.27) 86.74\n(549.66) 156.51\nIncome tax expense in Statement of Profit & Loss 1,976.12 1,737.49",
+      "Profit before Tax 7,228.90 5,429.45\nTax Expense: 41\n Current Tax 2,344.26 1,335.82\n Deferred Tax (368.14) 401.67\nTotal Tax Expenses 1,976.12 1,737.49\nProfit after Tax (C) 5,252.78 3,691.96\nOther Comprehensive Income\nItems that will not be reclassified to profit or loss\na) Remeasurement of defined benefit plan (99.55) 0.05\nb) Income tax relating to above items 34.78 (0.02)\nOther Comprehensive Income for the Year (Net of Tax) (D) 42 (64.77) 0.03\nTotal Comprehensive Income for the year (C+D) 5,188.01 3,691.99\nEarnings per Equity Shares of par value of K 10 each 43",
+      "ash handling solutions, and resilient \nsteel plant infrastructure each vital to \nsupporting modern industry.Financial analysis \nBalance sheet \n Total non-current assets for FY 2024-\n25 stood at H273 Crore compared to \nH215 Crore in FY 2023-24.  Profit and loss statement \n Revenues increased 22% to H782.59 \nCrore in FY 2024-25 compared to \nH641.29 Crore in FY 2023-24. \n EBITDA increased 20% to H105.12 \nCrore in FY 2024-25 compared to \nH87.64 Crore in FY 2023-24. \n Profit after tax increased by 41% \nto H52.87 Crore in FY 2024-25 compared to H37.60 Crore in \nFY 2023-24.",
+      "188  |  BTL EPC L TD\n59. Financial Ratios\nThe ratios for the years ended March 31, 2025 and March 31, 2024 as follows:\nS \nNo.Particulars Numerator Denominator For the year \nended 31st \nMarch 2025For the year \nended 31st \nMarch 2024Variance \n(in %)\n1 Current Ratio Current Assets Current Liabilities 1.16 1.24 (6.45%)\n2 Debt-Equity Ratio * Total Debt Shareholder’s Equity 0.37 0.51 (27.45%)\n3 Debt Service Coverage Ratio Earning available for debt \nservicesDebt Services 2.13 1.90 12.11%\n4 Return on Equity (%) Net profit after taxes Average Shareholder’s \nequity17.77% 14.97% 18.70%"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.032541900058277,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually."
+    }
+  },
+  {
+    "question": "What is the total income for FY 2024-25?",
+    "ground_truth": "78,604.24",
+    "answer": "The total income (revenue) for FY 2024-25, as reported in the context, is H782.59 Crore.",
+    "contexts": [
+      "Working capital intensity \nYear FY 23 FY 24 FY 25\nWorking capital (cash credit) \nuse as % of total sanction  89  81 62\nReceivable days  131  138 130\nDebt status \nYear FY 23 FY 24 FY 25\nTotal debt (H Crore) 117.14 136.98 121.58\nDebt-equity ratio  0.51 0.51 0.37\n72  |  BTL EPC L TD Annual Report 2024- 25  |  73\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "Year  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees          \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nWomen employees \nas  a % of total \nemployees   2.07  1.73  2.13  2.93 \nEmployee productivity            \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nRevenue per \nemployee ( H Lacs)   56  90  105  109\nPeople cost              \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nPeople cost as a % \nof revenues  from \noperation8.1 6.1 5.4 5.4\n88  |  BTL EPC L TD Annual Report 2024- 25  |  89",
+      "31st March, 2025For the Year ended  \n31st March 2024\nInterest income\nInterest on Bank & Other deposits 253.07 306.47\nInterest on Loan 12.19 11.25\n Sub-total 265.26 317.72\nOthers\nLiabilities no longer required written back 5.50 17.61\nFair value gain/(loss) on Financial Instruments classified as FVTPL (Net) 4.42 3.83\nRent received 22.28 18.84\nProfit on sale of Investment 0.18 -\nMiscellaneous income 47.14 38.86\n Sub-total 79.52 79.14\nOther Income Total 344.78 396.86",
+      "existing as well as potential clients \nhas already been released or is in the \nprocess of being issued, providing a \nfoundation for opportunities. Building \non this momentum, the Company has \nset an ambitious target of achieving \nrevenues of over H2,000 + Crore in \nthe next three years, supported by a \nsustainable EBITDA margin of more \nthan 15%.\nSourab Kumar Jha,   \nChief Financial Officer Year FY 23 FY 24 FY 25\nEBITDA as on % of revenues 9.64 13.6 13.4\nWorking capital intensity \nYear FY 23 FY 24 FY 25\nWorking capital (cash credit) \nuse as % of total sanction  89  81 62",
+      "How we have grown over the years \nRevenues \n(H in cr)\n326.38\nMeaning  \nRevenue is the total \nincome generated from the \nsale of goods related to the \nCompany’s operations.\nImportance \nRevenue represents a basis \nfor the comparison of the \nCompany’s competence \nwith competitors.\nPerformance \nThe Company reported \nH782.59 Crore of revenue \nin FY 2024-25, 22% higher \nthan the previous year.\n520.90\n641.29\n782.59\nFY22 FY23 FY24 FY25Debt-to-equity ratio  \n(x)\n0.51\nMeaning  \nThe debt-to-equity ratio \n(also called the ‘debt-\nequity ratio’, ‘risk ratio’, or \n‘gearing’), is a leverage ratio",
+      "Year FY 23 FY 24 FY 25 \nRevenue growth (%) 60 23 22\nPAT growth (%) 154 120 41\nCredit rating  \nYear FY 23 FY 24 FY 25 \nCredit rating Acuite BBB Acuite  BBB CRISIL BBB+\nBig picture: The big picture message is that BTL \nEPC reported high growth without compromising its \nfundamentals during the year under review. The all-\nround growth was the result of the Company seeking \nto prioritise controlled momentum without diluting \nhigh operational and financial benchmarks. \n70  |  BTL EPC L TD Annual Report 2024- 25  |  71\nCorporate Overview Statutory Reports Financial Statements LTD"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.164477500016801,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer provides a revenue figure of H782.59 Crore, which does not match the ground truth of 78,604.24."
+    }
+  },
+  {
+    "question": "What are the total expenses for FY 2024-25?",
+    "ground_truth": "71,340.86",
+    "answer": "Not found in document.",
+    "contexts": [
+      "leadership readiness.The big numbers\nEmployee benefit expenses  \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployee benefit \nexpenses ( H cr) 26.55 31.59 34.77 42.54\nEmployees    \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nEmployees  579  578  609  717\nTraining hours      \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAggregate person \ntraining hours440 420 540  660 \nAverage organisational age        \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees",
+      "Working capital intensity \nYear FY 23 FY 24 FY 25\nWorking capital (cash credit) \nuse as % of total sanction  89  81 62\nReceivable days  131  138 130\nDebt status \nYear FY 23 FY 24 FY 25\nTotal debt (H Crore) 117.14 136.98 121.58\nDebt-equity ratio  0.51 0.51 0.37\n72  |  BTL EPC L TD Annual Report 2024- 25  |  73\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "Year  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees          \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nWomen employees \nas  a % of total \nemployees   2.07  1.73  2.13  2.93 \nEmployee productivity            \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nRevenue per \nemployee ( H Lacs)   56  90  105  109\nPeople cost              \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nPeople cost as a % \nof revenues  from \noperation8.1 6.1 5.4 5.4\n88  |  BTL EPC L TD Annual Report 2024- 25  |  89",
+      "Corporate Overview Statutory Reports Financial StatementsAnnual Report 2024- 25  |  199Consolidated Statement of Profit & Loss for the year ended 31st March, 2025\n(H In Lacs)\nParticulars Note No. For the year ended  \n31st March, 2025For the year ended  \n31st March, 2024\nINCOME\nRevenue from Operations 32 78,259.46 64,129.12\nOther Income 33 344.78 396.86\nTotal Income (A) 78,604.24 64,525.98\nEXPENSES\nCost of Material Consumed 34 21,310.87 15,307.64\nPurchases of Stock-in-Trade 35 27,345.08 24,129.25\nChanges in Inventories of Finished goods, Work-in-Progress and \nStock-in-Trade36 (453.88) 231.25",
+      "Corporate Overview Statutory Reports Financial StatementsAnnual Report 2024- 25  |  131Standalone Statement of Profit & Loss for the year ended 31st March, 2025\n(H In Lacs)\nParticulars Note No. For the year ended  \n31st March, 2025For the year ended  \n31st March, 2024\nINCOME\nRevenue from Operations 32 78,259.46 64,129.12\nOther Income 33 344.78 396.86\nTotal Income (A) 78,604.24 64,525.98\nEXPENSES\nCost of Material Consumed 34 21,310.87 15,307.64\nPurchases of Stock-in-Trade 35 27,345.08 24,132.36\nChanges in Inventories of Finished goods, Work-in-Progress and \nStock-in-Trade36 (453.99) 231.62",
+      "198  |  BTL EPC L TD\nConsolidated Balance Sheet as at 31st March, 2025\n(H In Lacs)\nParticulars Note \nNo.As at  \n31st March, 2025As at  \n31st March, 2024\nASSETS\n1 NON-CURRENT ASSETS\na Property, Plant and Equipment 4 13,751.90 13,463.20\nb Capital Work-In-Progress 4 61.81 47.46\nc Investment Property 5 115.21 119.81\nd Right-of-Use Assets 6 368.09 51.29\ne Other Intangible Assets 7 67.81 22.40\nfFinancial Assets\ni Investments 8 82.19 113.05\nii Other Financial Assets 9 12,452.05 7,510.08\ng Deferred Tax Assets (net) 25 66.60 -\nh Other Assets 10 396.87 175.16\nTotal Non Current Assets 27,362.53 21,502.45"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.7227420000126585,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth is provided in the retrieved contexts."
+    }
+  },
+  {
+    "question": "Calculate the profit before tax using total income and expenses.",
+    "ground_truth": "7263.38",
+    "answer": "Not found in document.",
+    "contexts": [
+      "31st March 2024\nProfit from before income tax expense 7,228.90 5,429.20\nIncome Tax rate* 34.94% 29.12%\nEstimated Income Tax Expense 2,525.78 1,580.98\nTax effect of adjustments to reconcile expected Income tax expense to reported \nIncome tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nTax Rate difference on certain items - 68.32\nTax relating to earlier years (147.45) -\nOthers (488.27) 86.74\n(549.66) 156.51\nIncome tax expense in Statement of Profit & Loss 1,976.12 1,737.49",
+      "disciplined working capital \nmanagement.\n13.67\n20.42\n23.11\nFY22 FY23 FY24 FY25Net profit margin  \n(%)\n2.06\nMeaning  \nNet profit margin (also \nknown as ‘profit margin’ \nor ‘net profit margin ratio’) \nis a financial measure to \ncalculate the percentage of \nprofit a company produces \nfrom its total revenue.\nImportance \nIt represents the net profit \nthat a company earns for \neach rupee of revenue, \nexpressed as a percentage.\nPerformance \nThe Company reported \n6.76% net profit margin \nin FY 2024-25, 90 basis \npoints higher than the \nprevious year.\n3.28\n5.86\n6.76",
+      "Profit before Tax 7,228.90 5,429.45\nTax Expense: 41\n Current Tax 2,344.26 1,335.82\n Deferred Tax (368.14) 401.67\nTotal Tax Expenses 1,976.12 1,737.49\nProfit after Tax (C) 5,252.78 3,691.96\nOther Comprehensive Income\nItems that will not be reclassified to profit or loss\na) Remeasurement of defined benefit plan (99.55) 0.05\nb) Income tax relating to above items 34.78 (0.02)\nOther Comprehensive Income for the Year (Net of Tax) (D) 42 (64.77) 0.03\nTotal Comprehensive Income for the year (C+D) 5,188.01 3,691.99\nEarnings per Equity Shares of par value of K 10 each 43",
+      "Income tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nEffect of change in tax rate - 68.32\nTax relating to earlier years (147.45) -\nOthers (500.55) 66.83\n(561.94) 136.60\nIncome tax expense in Statement of Profit & Loss 1,976.18 1,737.43\n*Applicable\tIncome\tTax\trate\tfor\tFinancial\tYear\tending\t31st\tMarch,\t2025\tis\t34.944%\tand\t31st\tMarch,\t2024\tis\t29.12%.\n42. Other Comprehensive Income (H in Lacs)\nParticulars For the year ended  \n31st March, 2025For the Year ended  \n31st March 2024\nItems that will not be reclassified to profit or loss",
+      "coverage ratio of 3.38x \nfor FY 2024-25, which is \nimproved by 0.63x.\n2.19\n2.73\n3.36\nFY22 FY23 FY24 FY25Profit after tax  \n(H in cr)\n6.71\nMeaning  \nThe amount left after a \ncompany has paid all \nits operating and non-\noperating expenditures, \nother liabilities, and taxes \nis known as profit after \ntax. This profit is either \nallocated to the entity’s \nshareholders as dividend or \nheld in reserve as retained \nprofit.\nImportance \nProfit after tax represents \nthe actual profit a company \nearns in a financial year. It \nreflects the cost structure, \nbusiness model, and \noverall competitiveness.",
+      "original maturity of three months or less, which are subject to an insignificant risk of change in value.\n3.3 Income Tax\nIncome Tax comprises current and deferred tax. It is recognized in the statement of profit & loss except to the extent that \nit relates to an item recognized directly in equity or in other comprehensive income.\n 3.3.1 Current Tax\nCurrent tax comprises the expected tax payable on the taxable income for the year and any adjustments to the tax payable \nin respect of previous years. It is measured using tax rates and tax laws enacted by the reporting date.\n 3.3.2 Deferred Tax"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.637027999968268,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth and retrieved contexts provide a clear value for profit before tax."
+    }
+  },
+  {
+    "question": "What is the total financial assets value?",
+    "ground_truth": "57352.09",
+    "answer": "Not found in document.",
+    "contexts": [
+      "where applicable, related safeguards.\nOTHER MATTERS\n1. The consolidated annual financial statements include the \nfinancial statements/ financial information of a wholly \nowned subsidiary company whose financial statements / \nfinancial information reflect total assets of H 304.25 lacs \nas at 31st March, 2025, total revenue of H 0.00 lac and \nnet cash outflows of H 83.30 lacs for the year ended 31st \nMarch, 2025 which have not been audited by us.\nThe independent auditors report on the financial \nstatements/ financial information of the subsidiary has",
+      "in the accompanying standalone financial statements of the \nCompany whose financial statements reflect total assets of \nH 381.09 lacs as at March 31, 2025, total revenue of H 277.18 \nlacs and net cash outflows of H 0.66 lac for the year ended \non that date. This financial statements/ financial information \nhas been audited by branch auditor and whose reports have \nbeen furnished to us by the management, and our opinion in \nso far as it relates to the amounts and disclosures included in \nrespect of branch, and our report in terms of sub-sections (3)",
+      "as impaired when the carrying cost of the asset exceeds its recoverable value being higher of value in use and net selling \nprice. Value in use is computed at net present value of cash flow expected over the balance useful lives of the assets. For \nthe purpose of assessing impairment, assets are grouped at the lowest levels for which there are separately identifiable \ncash inflows which are largely independent of the cash inflows from other assets or group of assets (Cash Generating \nUnits – CGU).",
+      "Name of the entity As at 31st March, 2025\nNet assets, i.e. total \nassets minus total \nliabilitiesShare in Profit or loss Share in Other \nComprehensive IncomeShare in Total \nComprehensive Income\nAs % of \nConsolidated \nNet AssetsAmount \n(K In \nLacs)As % of \nConsolidated \nprofit or lossAmount \n(K In \nLacs)As % of \nConsolidated \nprofit or lossAmount \n(K In \nLacs)As % of \nConsolidated \nprofit or lossAmount \n(K In \nLacs)\nParent\nBTL EPC Limited 100.39% 32,521.84 100.65% 5,287.01 100.00% (64.77) 100.66% 5,222.24\nSubsidiary\nShrachi Agrimech Limited -0.39% (127.88) -0.65% (34.23) 0.00% - -0.66% (34.23)",
+      "instruments. A financial asset is initially measured at fair value plus, in the case of financial assets not recorded at \nfair value through profit or loss, transaction costs that are attributable to the acquisition of the financial asset.\n b) Classification and Subsequent Measurement:\nFor the purposes of subsequent measurement, financial assets are classified in four categories:\n  Measured at Amortized Cost;\n  Measured at Fair Value Through Other Comprehensive Income (FVTOCI);\n  Measured at Fair Value Through Profit or Loss (FVTPL); and",
+      "b) Classification and Subsequent Measurement:\nFor purposes of subsequent measurement, financial assets are classified in four categories:\n  Measured at Amortized Cost;\n  Measured at Fair Value Through Other Comprehensive Income (FVTOCI);\n  Measured at Fair Value Through Profit or Loss (FVTPL); and\n  Equity Instruments measured at Fair Value through Other Comprehensive Income (FVTOCI).\nFinancial assets are not reclassified subsequent to their initial recognition, except if and in the period the Company \nchanges its business model for managing financial assets."
+    ],
+    "rag_type": "fusion",
+    "latency": 0.5235567999770865,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when there is relevant information available in the retrieved contexts."
+    }
+  },
+  {
+    "question": "What is the total financial liabilities value?",
+    "ground_truth": "40642.21",
+    "answer": "Not found in document.",
+    "contexts": [
+      "53.4. During the year ended March 31, 2025 and March 31, 2024, there were no transfers between Level 1 and Level 2 fair value \nmeasurements, and no transfer into and out of Level 3 fair value measurements.\n54. Financial Risk Management\nThe company’s principal financial liabilities comprises borrowings, trade payables and other financial liabilities. The main purpose \nof these financial liabilities is to finance the Company’s operations. The Company’s financial assets include investments, trade \nreceivables, cash and cash equivalents, other bank balances, loans and other financial assets.",
+      "(x)\n0.51\nMeaning  \nThe debt-to-equity ratio \n(also called the ‘debt-\nequity ratio’, ‘risk ratio’, or \n‘gearing’), is a leverage ratio \nthat calculates the weight \nof total debt and financial \nliabilities against total \nshareholders’ equity.  \nImportance \nThis ratio indicates \nwhether a company’s \ncapital structure leans \nmore toward debt or equity \nfinancing.\nPerformance \nThe Company reported a \n0.37 debt-to-equity ratio at \nthe close of FY 2024-25, \nindicating the under-\nborrowed nature of the \nbusiness. \n0.50\n0.51\n0.37\nFY22 FY23 FY24 FY25EBITDA  \n(H in cr)\n31.10\nMeaning",
+      "liabilities at FVTPL are measured at fair value and net gains and losses, including any interest expense, are recognized \nin profit or loss. Other financial liabilities are subsequently measured at amortized cost using the effective interest \nrate method. Interest expense and foreign exchange gains and losses are recognized in profit or loss. Any gain or loss \non de-recognition is also recognized in profit or loss.",
+      "measurements, and no transfer into and out of Level 3 fair value measurements.\n54. Financial Risk Management\nThe Group’s principal financial liabilities comprises borrowings, trade payables and other financial liabilities. The main purpose of \nthese financial liabilities is to finance the Group’s operations. The Group’s financial assets include investments, trade receivables, \ncash and cash equivalents, other bank balances, loans and other financial assets.\nThe Group is exposed to market risk, liquidity risk and credit risk. The Group has a Risk management policy and its management",
+      "has increased significantly since initial recognition.\n 3.11.2.  Financial Liabilities\n a) Recognition and Initial Measurement:\nFinancial liabilities are classified, at initial recognition, as at fair value through profit or loss, loans and borrowings, \npayables or as derivatives, as appropriate. All financial liabilities are recognized initially at fair value and, in the case \nof loans and borrowings and payables, net of directly attributable transaction costs.\n b) Subsequent Measurement:",
+      "liabilities at FVTPL are measured at fair value and net gains and losses, including any interest expense, are recognized \nin profit or loss. Other financial liabilities are subsequently measured at amortized cost using the effective interest \nrate method. Interest expense and foreign exchange gains and losses are recognized in profit or loss. Any gain or loss \non de-recognition is also recognized in profit or loss.\n c) De-recognition:\nA financial liability is derecognized when the obligation under the liability is discharged or cancelled or expires.\n d) Offsetting financial instruments:"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.4937489000149071,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when a concrete value for total financial liabilities is expected."
+    }
+  },
+  {
+    "question": "What is the difference between financial assets and liabilities?",
+    "ground_truth": "16709.88",
+    "answer": "Not found in document.",
+    "contexts": [
+      "53.4. During the year ended March 31, 2025 and March 31, 2024, there were no transfers between Level 1 and Level 2 fair value \nmeasurements, and no transfer into and out of Level 3 fair value measurements.\n54. Financial Risk Management\nThe company’s principal financial liabilities comprises borrowings, trade payables and other financial liabilities. The main purpose \nof these financial liabilities is to finance the Company’s operations. The Company’s financial assets include investments, trade \nreceivables, cash and cash equivalents, other bank balances, loans and other financial assets.",
+      "value of net identifiable assets acquired and liabilities assumed, the excess is recorded as goodwill. After initial recognition, \ngoodwill is tested for impairment annually and measured at cost less any accumulated impairment losses if any. \nAlternatively, in case of a bargain purchase wherein the aggregate of consideration transferred and amount recognised \nfor non-controlling interests is lower than the fair value of net identifiable assets acquired and liabilities assumed, the \ndifference is recognised as capital reserve within equity.",
+      "measurements, and no transfer into and out of Level 3 fair value measurements.\n54. Financial Risk Management\nThe Group’s principal financial liabilities comprises borrowings, trade payables and other financial liabilities. The main purpose of \nthese financial liabilities is to finance the Group’s operations. The Group’s financial assets include investments, trade receivables, \ncash and cash equivalents, other bank balances, loans and other financial assets.\nThe Group is exposed to market risk, liquidity risk and credit risk. The Group has a Risk management policy and its management",
+      "liability is the entity’s obligation to transfer goods or services to a customer for which the entity has received consideration from \nthe customer in advance. Contract assets are transferred to receivables when the rights become unconditional and contract \nliabilities are recognised as revenue as and when the performance obligation is satisfied.\n49.2.2. Refer Note 54.1 of Standalone financial statement for movement of expected credit loss during the current and previous \nyear.\n50. Segment Reporting",
+      "recognised amounts and where it intends either to settle on a net basis, or to realise the asset and settle the liability \nsimultaneously. In case of deferred tax assets and deferred tax liabilities, the same are offset if the Company has a \nlegally enforceable right to set off corresponding current tax assets against current tax liabilities and the deferred tax \nassets and deferred tax liabilities relate to income taxes levied by the same tax authority on the Company.",
+      "managing assets with liquidity monitoring future cash flow and liquidity on a regular basis. Surplus funds not immediately \nrequired are invested in certain fixed deposits which provides flexibility to liquidate.\n54.2.1. Maturity Analysis for financial liabilities\na The following are the remaining contractual maturities of financial liabilities as at 31st March 2025 (H in Lacs)\nParticulars Not Due On Demand Less than 1 \nyear1 Year to 5 \nYearMore than 5 \nYearsTotal\nLong Term Borrowings - - - 816.44 - 816.44\nShort Term Borrowings - 10,937.84 779.95 - - 11,717.79"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.5393727000337094,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth provides a clear definition of financial assets and liabilities, which is present in the retrieved contexts."
+    }
+  },
+  {
+    "question": "What was the order value received for Adani’s Raigarh project?",
+    "ground_truth": "185 Crore",
+    "answer": "Not found in document.",
+    "contexts": [
+      "The \nchallenging \nNTPC-Pakri \nproject \nReality: The BHEL-Maitree Project \ncomprises a coal handling system for \nthe 2x660 MW at Rampal in Khulna, \nBangladesh, owned by Bangladesh-\nIndia Friendship Power Company \nLtd. This was BTL EPC’s first EPC \nproject outside India, a milestone. The \nproject encountered challenges due to \ninternational statutory compliances, Reality: This was BTL EPC’s first direct \nlarge order from NTPC worth H268 \nCrore. The location of the project \nwas marked by law-and-order issues \nand political sensitivities. The project \nposed operational and logistical",
+      "thermal power project (2X800 MW). This \norder not only reinforces BTL ’s credibility \nbut also positions the Company to \nqualify independently for high-value \ntenders without technical collaborators.Highlights, FY 2024-25\n Engineering activities for the project \nare progressing satisfactorily.\n Successful execution of this project \nis expected to strengthen BTL \nEPC’s qualifications, empowering \nits participation in similar tenders \nwithout any collaboration.\n Data-centric predictive analysis.\n Currently executing 5X800 MW \nThermal Power Station at Yadadri,",
+      "and timely projects completion. \nDuring the last financial year, your Company \nseeded its growth foundation to graduate to the \nnext level. At the start of the year under review, your \nCompany possessed an order book of H1,178.98 \nCrore; during the year under review, your Company \nadded H1,686.26 Crore in new orders and finished \nthe year with a pending order book of H2,165.83 \nCrore. The order book was indicative of sizable \ngrowth in the engineering division since business in the Agrimech division was conducted \non a cash-and-carry basis.    \nThe Company’s order book  primarily",
+      "declared\nD. Major Development in order booking \n(Operation) after closure of FY 2024-25 and \nbefore approval of Board Report –\n  Coal Handling Plant package for NTPC Kerandari \nCoal Mining Project. Order value H 130.49 Cr.\nE. Reward & Recognition: - Your company is \nhonoured to receive the “Outstanding Contribution \nto Power EPC” award at the “11th EPC World Awards” \nfor the work on the Feroze Gandhi Unchahar Thermal \nPower Plant (FGUTPP) of NTPC at Raebareli, UP . \nThis recognition is a testament to our commitment",
+      "This is the result of \nour multi-decade \ncompetence \nThe Company enjoys attractive revenue visibility \n(based on FY 2024-25 revenues) with comfortable \nliquidity. This indicates that the Company is placed to \naddress this sizable order book growth through net \nworth, potentially enhancing shareholder value.2,200+ \nH Crore order book \nas on 30 June 2025\nAnnual Report 2024-25  |  59 58  |  BTL EPC L TD\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "on a cash-and-carry basis.    \nThe Company’s order book  primarily \ncomprised Bulk Material Handling \nSystems (conveyor systems) catering \nto key industries such as Coal, Mining, \nPower, Steel, and Fertilisers. In \naddition, the Company addresses ash \nhandling systems for power plants, \nand Chemical Plant projects for steel \nplants. This diversified portfolio reflects \nthe Company’s presence across critical \ninfrastructure and industrial sectors.This order book crossed H2,000+ \nCrore for the first time, enhancing \nrespect for the Company among \nheavy engineering fabrication cum"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.4687180001055822,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth is provided in one of the retrieved contexts."
+    }
+  },
+  {
+    "question": "What was the NTPC Pakri project value?",
+    "ground_truth": "268 Crore",
+    "answer": "Not found in document.",
+    "contexts": [
+      "The \nchallenging \nNTPC-Pakri \nproject \nReality: The BHEL-Maitree Project \ncomprises a coal handling system for \nthe 2x660 MW at Rampal in Khulna, \nBangladesh, owned by Bangladesh-\nIndia Friendship Power Company \nLtd. This was BTL EPC’s first EPC \nproject outside India, a milestone. The \nproject encountered challenges due to \ninternational statutory compliances, Reality: This was BTL EPC’s first direct \nlarge order from NTPC worth H268 \nCrore. The location of the project \nwas marked by law-and-order issues \nand political sensitivities. The project \nposed operational and logistical",
+      "or transportation can lead to budget \ndeviations, impacting profit margins, \nespecially in long-duration contracts.\nMitigation:  To counter this, the \nCompany adopts detailed cost \nestimation models, value engineering practices, and real-time cost \nmonitoring systems. Wherever feasible, \nfixed-price contracts are negotiated, \nand procurement is optimised to lock \nin prices early.\nRegulatory and compliance risks\nFrequent changes in environmental, \nlabor, or industrial regulations can \naffect project timelines and increase \ncompliance burdens.\nMitigation:  A dedicated compliance",
+      "political unrest, as well as time and \ncost overruns, BTL EPC completed \nthe project. The plant has been in \ncommercial operation for over two \nyears. The project established BTL \nEPC credentials as a capable regional \nEPC contractor, extending its footprint \nbeyond India.  Activity: BTL EPC aggregated a \nstrong team. The team charted out \nsequential processes. The project \ncomprised the design and execution of \nthe mechanical transport and loading \narrangement from TP-10 (existing \nNTPC facility) to Banadag railway \nsiding. BTL EPC conducted end-to-\nend EPC activities (civil construction,",
+      "Crore. The location of the project \nwas marked by law-and-order issues \nand political sensitivities. The project \nposed operational and logistical \nchallenges on account of extensive \ncivil works, structural steel fabrication, \nand complex mechanical, electrical, \ncontrol cum instrumentation and utility \nsystems integration.\npolitical instability, and related delays \nthat translated into cost overruns.\nActivity: BTL EPC was awarded \nthe project by BHEL-ISG to execute \nmechanical, electrical, control \ninstrumentation, and auxiliary utility \nsystems. The scope involved full-",
+      "if any.Amount remaining \nto be spent in \nsucceeding \nfinancial years.  \n(in K)Name of the \nFundAmount (in \nK).Date of \ntransfer.\n1. NIL\nTotal\n (b) Details of CSR amount spent in the financial year for on-going projects of the preceding financial year(s):\n(1) (2) (3) (4) (5) (6) (7) (8) (9)\nSl. \nNo.Project \nID.Name \nof the \nProject.Financial \nYear in \nwhich the \nproject was \ncommenced.Project \nduration.Total amount \nallocated for \nthe project \n(in K).Amount \nspent on the \nproject in \nthe reporting \nFinancial \nYear (in K).Cumulative \namount spent \nat the end \nof reporting \nFinancial",
+      "processing industry, and leveraging operational and technical synergies. The acquisition through CIRP provided an opportunity \nto acquire a viable business at a value significantly lower than the fair value of its net assets, thereby enhancing long-term \nshareholder value.\n(A)Details of Business Combination\nParticulars Amount (K In Lacs)\nFair Value of Net Assets Acquired 1,455.62\nConsideration Paid 1,201.00\nCapital Reserve recognized 254.62\n(B)Details of Net Assets acquired\nFair Value of net identifiable assets acquired as at the date of acquisition were:\nParticulars Amount (K In Lacs)"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.4608758999966085,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in one of the retrieved contexts."
+    }
+  },
+  {
+    "question": "What challenges did the NTPC project face?",
+    "ground_truth": "Law and order issues, logistical challenges, and political sensitivities.",
+    "answer": "The NTPC project faced challenges due to international statutory compliances, law-and-order issues, political sensitivities, extensive civil works, structural steel fabrication, complex mechanical, electrical, control cum instrumentation and utility systems integration, political instability, related delays, and cost overruns.",
+    "contexts": [
+      "The \nchallenging \nNTPC-Pakri \nproject \nReality: The BHEL-Maitree Project \ncomprises a coal handling system for \nthe 2x660 MW at Rampal in Khulna, \nBangladesh, owned by Bangladesh-\nIndia Friendship Power Company \nLtd. This was BTL EPC’s first EPC \nproject outside India, a milestone. The \nproject encountered challenges due to \ninternational statutory compliances, Reality: This was BTL EPC’s first direct \nlarge order from NTPC worth H268 \nCrore. The location of the project \nwas marked by law-and-order issues \nand political sensitivities. The project \nposed operational and logistical",
+      "Crore. The location of the project \nwas marked by law-and-order issues \nand political sensitivities. The project \nposed operational and logistical \nchallenges on account of extensive \ncivil works, structural steel fabrication, \nand complex mechanical, electrical, \ncontrol cum instrumentation and utility \nsystems integration.\npolitical instability, and related delays \nthat translated into cost overruns.\nActivity: BTL EPC was awarded \nthe project by BHEL-ISG to execute \nmechanical, electrical, control \ninstrumentation, and auxiliary utility \nsystems. The scope involved full-",
+      "structural and civil design-engineering \nfor both projects within the first five months. This rapid design progress \nset the tone for streamlined project \nexecution. \nOvercome: BTL EPC overcame the \ntypical bottlenecks of delayed design \nand sluggish project commencement \ncommon in Indian EPC projects by accelerating the engineering phase. \nThis helped establish a robust \nexecution momentum; and both \nprojects are progressing at full pace. \nThe project highlights BTL EPC’s \nadaptability and capability in fast-\npaced private sector projects. Adani-Raigarh \nCHP and AHP \nprojects",
+      "political unrest, as well as time and \ncost overruns, BTL EPC completed \nthe project. The plant has been in \ncommercial operation for over two \nyears. The project established BTL \nEPC credentials as a capable regional \nEPC contractor, extending its footprint \nbeyond India.  Activity: BTL EPC aggregated a \nstrong team. The team charted out \nsequential processes. The project \ncomprised the design and execution of \nthe mechanical transport and loading \narrangement from TP-10 (existing \nNTPC facility) to Banadag railway \nsiding. BTL EPC conducted end-to-\nend EPC activities (civil construction,",
+      "arrangement from TP-10 (existing \nNTPC facility) to Banadag railway \nsiding. BTL EPC conducted end-to-\nend EPC activities (civil construction, \nstructural fabrication, mechanical \nand electrical systems, equipment \nerection, cabling, instrumentation, and \ncommissioning). \nOvercome: BTL EPC ensured \nmilestoned progress through effective \nsite management and ongoing \nstakeholder engagement. The project \nwas completed successfully without \nany delay. NTPC appreciated BTL EPC’s \nperformance, positioning the latter as a \npreferred EPC partner. \nThe  \nBHEL-Maitree",
+      "The Company involves technical \npersonnel across all project phases \n- from concept to commissioning. \nThis enables efficient execution and \ncomprehensive knowledge alignment.Highlights, FY 2024-25\nThe positive outcomes that emerged from the technology interventions comprised increased customer reach, \nimproved lead generation, enhanced customer support, quicker turnaround time, concurrent management of \nmultiple projects, reduction in repair and rework at project sites, improved interface and integration checks"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.2324500000104308,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.6,
+      "reason": "The answer includes law-and-order issues, political sensitivities, and logistical challenges (extensive civil works, structural steel fabrication, complex mechanical, electrical, control cum instrumentation and utility systems integration). However, it incorrectly mentions international statutory compliances, which are not part of the ground truth for this specific NTPC project."
+    }
+  },
+  {
+    "question": "What is the company’s vision?",
+    "ground_truth": "To be the engineering partner of choice in India’s infrastructure journey.",
+    "answer": "To be the engineering partner of choice in India’s infrastructure journey of value through innovation, precision, and excellence in every project we undertake.",
+    "contexts": [
+      "sustainable water management by expanding its conservation \ninfrastructure and integrating \ninnovative technologies. The \nCompany’s proactive approach \nreflects its long-term vision \nfor resource efficiency and \nenvironmental stewardship.\nOverview\nBTL EPC is committed to reduce its \nenvironmental footprint through efficient \nenergy management. The Company \noptimises energy consumption across \noperations by upgrading infrastructure, \nadopting renewable energy solutions, and \npromoting energy-conscious behaviour.  \nInitiatives, FY 2024–25\nInfrastructure upgrades:  The Company",
+      "equipment in regions with low levels of mechanisation, \nthereby improving accessibility and promoting inclusive \nagricultural growth. \nGrowth\nThe Agrimech division recorded a robust 32% year-on-year \nrevenue growth in FY 2024-25. This strong performance \nreflects increased market demand and improved sales \nexecution. Strengths\n Strong leadership and strategic \nguidance from the senior \nmanagement.\n Clear vision and execution from a \ncommitted leadership team.Highlights, FY 2024-25\n Achieved significant year-over-year \nrevenue growth of 32%.\n Total sales: Over 8,000 weeders and",
+      "continuous adoption of latest technology. While continuing our tradition of delivering value-driven engineering solutions, we \nhave also embraced technological advancements and digital integration to drive productivity and improve project outcomes.\nWe are pleased to share with you our vision of growth and resilience. Our strategic approach remains grounded in execution \ncapability, prudent risk management, and long-term value creation, underpinned by a blend of realism and optimism that guides \nall our future endeavours.\n1.FINANCIAL PERFORMANCE FOR THE YEAR ENDED MARCH 31, 2025 (H in Lacs)",
+      "Building for India. \nBanking on India. \nEmpowering Infrastructure. \nEnabling Progress. \nBTL EPC Limited stands among \nIndia’s fastest-growing heavy \nengineering EPC companies, \ndelivering integrated solutions \nacross the core sectors of \npowering India’s economy.\nFrom complex project execution to \nprecision-engineered fabrication, \nBTL EPC plays a pivotal role in \nIndia’s industrial transformation.\nOur investments in technology, \ntalent, and infrastructure validate \nour commitment to India’s growth \nambition and infrastructure \nrevolution.Corporate Overview\nPart one: What we are",
+      "and Consarc Engineering.\nOur workforce\nBTL EPC is driven by a skilled and \nexperienced workforce across its \nmanufacturing and EPC operations, \nmaking it a trusted player in the heavy \nengineering solutions sector. The total \nemployee strength stood at 720, with \nan average employee age of 31 years.Our vision \nTo be the engineering \npartner of choice in India’s \ninfrastructure journey of value \nthrough innovation, precision, \nand excellence in every project \nwe undertake. \nOur mission  \nTo consistently deliver high-\nquality, on-time projects that \nstrengthen India’s industrial \nfoundation.",
+      "manufacture of precision-engineered \nproducts and process equipment for a \nrange of downstream industries. Since \nventuring into the EPC sector in 2006, \nthe Company has witnessed attractive \ngrowth, securing new opportunities and \nexpanding its technical and operational \ncapabilities.The promoter’s legacy of innovation, \nintegrity, and excellence remains our \nguiding force. Under the dynamic \nleadership of Mr. Ravi Todi, we are \nbuilding on this foundation to scale \nnew heights in engineering excellence, \ndelivering critical components for \ninfrastructure projects in India and \nbeyond."
+    ],
+    "rag_type": "fusion",
+    "latency": 0.8214073000708595,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.5,
+      "reason": "The model answer includes additional details not present in the ground truth, such as 'of value through innovation, precision, and excellence in every project we undertake.'"
+    }
+  },
+  {
+    "question": "What is the company’s mission?",
+    "ground_truth": "To deliver high-quality, on-time projects.",
+    "answer": "The company's mission is to consistently deliver high-quality, on-time projects that strengthen India’s industrial foundation.",
+    "contexts": [
+      "we undertake. \nOur mission  \nTo consistently deliver high-\nquality, on-time projects that \nstrengthen India’s industrial \nfoundation.  \nCoal handling plant at Yadadri, Telangana\n4  |  BTL EPC L TD Annual Report 2024- 25  |  5\nLTDCorporate Overview Financial Statements Statutory Reports",
+      "and Consarc Engineering.\nOur workforce\nBTL EPC is driven by a skilled and \nexperienced workforce across its \nmanufacturing and EPC operations, \nmaking it a trusted player in the heavy \nengineering solutions sector. The total \nemployee strength stood at 720, with \nan average employee age of 31 years.Our vision \nTo be the engineering \npartner of choice in India’s \ninfrastructure journey of value \nthrough innovation, precision, \nand excellence in every project \nwe undertake. \nOur mission  \nTo consistently deliver high-\nquality, on-time projects that \nstrengthen India’s industrial \nfoundation.",
+      "Corporate  snapshot\nBTL EPC  LIMITED \nis an attractive proxy \nof India’s heavy \nengineering solutions \nsector.\nBTL EPC Limited is an established multi-decade player in India’s \nheavy engineering solutions sector.\nThe Company leverages five decades of experience to deliver \nend-to-end engineering solutions - from design and planning to \nprecision fabrication and on-site execution.\nThe Company services the growing critical equipment needs of \nIndia’s power, mining, fertiliser, and metal sectors, empowering \nthem to scale and address an unprecedented national opportunity.",
+      "Building for India. \nBanking on India. \nEmpowering Infrastructure. \nEnabling Progress. \nBTL EPC Limited stands among \nIndia’s fastest-growing heavy \nengineering EPC companies, \ndelivering integrated solutions \nacross the core sectors of \npowering India’s economy.\nFrom complex project execution to \nprecision-engineered fabrication, \nBTL EPC plays a pivotal role in \nIndia’s industrial transformation.\nOur investments in technology, \ntalent, and infrastructure validate \nour commitment to India’s growth \nambition and infrastructure \nrevolution.Corporate Overview\nPart one: What we are",
+      "manufacture of precision-engineered \nproducts and process equipment for a \nrange of downstream industries. Since \nventuring into the EPC sector in 2006, \nthe Company has witnessed attractive \ngrowth, securing new opportunities and \nexpanding its technical and operational \ncapabilities.The promoter’s legacy of innovation, \nintegrity, and excellence remains our \nguiding force. Under the dynamic \nleadership of Mr. Ravi Todi, we are \nbuilding on this foundation to scale \nnew heights in engineering excellence, \ndelivering critical components for \ninfrastructure projects in India and \nbeyond.",
+      "years of experience across various \nbusiness domains, Mr. Todi has been \ninstrumental in shaping the Group’s \ntrajectory. An alumnus of St. Xavier’s \nCollege, Kolkata, he deepened his \nleadership acumen through the Owner \nPresident Management Program \n(OPM) at Harvard Business School.\nOur heritage\nBTL EPC is a dynamic, multidisciplinary \nengineering, procurement, and \nconstruction company. Its engineering \ndivision encompasses capabilities \nin project execution, as well as the \nmanufacture of precision-engineered \nproducts and process equipment for a \nrange of downstream industries. Since"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.7713968000607565,
+    "evaluation": {
+      "verdict": "correct",
+      "score": 1.0,
+      "reason": "The model answer matches the ground truth factually and includes all important details from the retrieved contexts."
+    }
+  },
+  {
+    "question": "What industries are supported by the company’s engineering solutions?",
+    "ground_truth": "Power, mining, fertiliser, and metal industries.",
+    "answer": "The Company services the growing critical equipment needs of India's power, mining, fertiliser, and metal sectors. Additionally, its offerings include turnkey solutions for industries like steel, oil & gas, cement, metallurgy, and minerals.",
+    "contexts": [
+      "Corporate  snapshot\nBTL EPC  LIMITED \nis an attractive proxy \nof India’s heavy \nengineering solutions \nsector.\nBTL EPC Limited is an established multi-decade player in India’s \nheavy engineering solutions sector.\nThe Company leverages five decades of experience to deliver \nend-to-end engineering solutions - from design and planning to \nprecision fabrication and on-site execution.\nThe Company services the growing critical equipment needs of \nIndia’s power, mining, fertiliser, and metal sectors, empowering \nthem to scale and address an unprecedented national opportunity.",
+      "handling in the 1980s and provides \nturnkey solutions from design to \ncommissioning for industries like \nsteel, power, oil & gas, cement, \nmining, metallurgy and minerals. Its \nofferings include conveyors, paddle \nfeeders, hoists, and related equipment, \ndelivering end-to-end systems for coal, \niron ore, and other minerals, including \nconveying, crushing, and stacking \nfor power, steel plants, fertilisers and \nprocess plant.Key elements of Bulk Material \nHandling system\n Conveying equipment: Belt \nconveyors, screw conveyors, pipe \nconveyor. \n Storage solutions:  Silos, hoppers, \nstockyards.",
+      "Sophistication is becoming \nnecessary in BTL EPC’s \nheavy engineering \nsolutions business. \nBTL EPC is responding to the growing national needs of \nscale, scope and sophisticationOverview Demand for larger and more complex \nequipment:  As manufacturing plants \ngrow, they require higher-capacity \nmachinery, greater precision, and \ncustomised solutions. To meet these \nneeds, heavy engineering suppliers \nmust adopt more advanced design \ntools, materials technology, and \nfabrication techniques.\nTighter tolerances and higher \nstandards: Modern plants demand",
+      "modernisation of existing power \ninfrastructure. \nCompany overview \nBTL EPC Ltd. has played a pivotal role \nin advancing India’s industrial and \nagricultural landscape for 50 years. As \na comprehensive engineering solutions \nprovider, we combine detailed planning, \nprecision manufacturing, and expert \non-site execution. Our capabilities span \nthe development of advanced bulk \nmaterial handling systems, innovative \nash handling solutions, and resilient \nsteel plant infrastructure each vital to \nsupporting modern industry.Financial analysis \nBalance sheet",
+      "How we invested \ndeeper in cutting-edge \nresearch at BTL EPC  Business excellence \nOverview\nAt BTL EPC, research and development catalyses \ninnovation, competitiveness, and growth in our heavy \nengineering manufacturing-driven business. \nThe management envisions R&D as a key enabler in \ndeveloping non-conventional, cost-effective solutions \nthat optimise performance. \nThe Company is engaged with industry experts, \nacademic institutions, reputed consultants, and technology collaborators to stay abreast of the latest \nadvancements. Regular knowledge-sharing initiatives",
+      "material in-houseStrong eco-system support: There \nis a growing need for large heavy \nengineering EPC companies to create \nsupporting eco-systems of smaller \nspecialised fabricators equipped to \nserve virtually as an extension of the \nlarger partner’s enterprise – deliver \nspecialised products with speed\nAll round sustainability: There \nhas been a visible shift for heavy \nengineering solution providers to \nengage in responsible and sustainable \nmanufacturing operations – operations \nthat pose no threat to the ecology, \nworkers or neighbouring communities-\nwith adequate documentation of"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.074340600054711,
+    "evaluation": {
+      "verdict": "partially_correct",
+      "score": 0.6,
+      "reason": "The answer correctly mentions the power, mining, fertiliser, and metal sectors but also includes additional industries (steel, oil & gas, cement) not specified in the ground truth."
+    }
+  },
+  {
+    "question": "Summarize BTL EPC Limited.",
+    "ground_truth": "BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors.",
+    "answer": "BTL EPC Limited is a company characterized by its unique culture, which is driven by passion and a futuristic outlook. The annual report highlights the company's proactive approach and preponed initiatives, indicating an opportunity for growth or innovation. Financially, the management has assessed that the fair values of various financial assets and liabilities approximate their carrying amounts, suggesting transparency and accuracy in financial reporting. Additionally, the company addresses its pending litigation by reviewing all claims and making adequate provisions, ensuring compliance with legal and regulatory requirements. The report also includes forward-looking statements, acknowledging potential differences between expressed or implied expectations and actual outcomes.",
+    "contexts": [
+      "BTL EPC LIMITED | ANNUAL REPORT 2024-25LTD",
+      "unprecedented opportunity to \nthe proactive and preponed\n42  |  BTL EPC L TD Annual Report 2024- 25  |  43\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "BTL EPC \nThe Company’s \nunique culture is \ndriven by passion \nand a futuristic \noutlook PART THREE\n52  |  BTL EPC L TD Annual Report 2024-25  |  53\nLTDCorporate Overview Financial Statements Statutory Reports",
+      "250  |  BTL EPC L TD\nNotes to Consolidated Financial Statements as at and for the year ended 31st March, 202552.2. The management has assessed that the fair values of cash and cash equivalents, trade receivables, trade payables, short \nterm borrowings, current loans and other financial assets & liabilities approximates their carrying amounts.\n52.3. The management considers that the carrying amounts of Financial assets and Financial liabilities recognised at nominal \ncost/amortised cost in the Financial statements approximate their fair values.",
+      "238  |  BTL EPC L TD\nNotes to Consolidated Financial Statements as at and for the year ended 31st March, 2025Note: The Company’s pending litigation comprises of claims against the Company and proceedings pending with tax/statutory/\ngovernment authorities. The Company has reviewed all its pending  litigations and proceedings and has made adequate \nprovisions, and disclosed the contingent liabilities, where applicable, in its consolidated financial statements. The Company does",
+      "constitute certain statements, which \nare forward-looking within the meaning \nof applicable laws and regulations. \nThe statements in this management \ndiscussion and analysis report could \ndiffer materially from those expressed \nor implied.\n92  |  BTL EPC L TD Annual Report 2024- 25  |  93\nCorporate Overview Statutory Reports Financial Statements LTD"
+    ],
+    "rag_type": "fusion",
+    "latency": 2.0926683999132365,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer does not match the ground truth factually. It provides details about the company's culture, financial assessments, litigation, and forward-looking statements, but it fails to mention that BTL EPC Limited is a heavy engineering EPC company delivering end-to-end solutions across multiple industrial sectors."
+    }
+  },
+  {
+    "question": "Explain the growth of the company over the years.",
+    "ground_truth": "The company expanded through acquisitions, diversification, EPC entry, and increasing project scale across sectors.",
+    "answer": "Not found in document",
+    "contexts": [
+      "corporate communication for the engineering \ndivision, and oversees CSR programs. Her \nmultifaceted expertise reflects her passion for \ndriving growth and creating positive impact \nacross industries.\nMr. Aviik Mukherjee\nWhole time Director (Change in designation wef. 01.04.2025)\nMr. Avik Mukherjee is a seasoned HR \nprofessional with over 35 years of experience \nin Corporate and Plant-level HR across \nEngineering, Chemical, Fertiliser, FMCG, \nand EPC sectors. He specialises in strategic \nmanagement, employee relations, and \norganisational development, having worked",
+      "in Business Process Management and \nBalanced Scorecard implementation.Mr. Ravi Todi\nManaging Director\nMr. Todi serves as the Promoter Director of \nthe Shrachi Group of Companies. With over 31 \nyears of experience across various domains, he \nhas been a driving force behind the Company’s \nachievements. His leadership has been \ninstrumental in steering the Group’s growth trajectory. A proud alumnus of St. Xavier’s \nCollege, Kolkata (B.Com.), holds Executive MBA \nfrom Harvard Business School, Boston.\n94  |  BTL EPC L TD Annual Report 2024- 25  |  95",
+      "India’s infrastructure growth \nstory: A decisive moment \nfor BTL EPC Chairman’s perspective \nSunil Kumar Mittra  \nChairman\n62  |  BTL EPC L TD Annual Report 2024- 25  |  63\nCorporate Overview Statutory Reports Financial Statements LTDOverview\nThis past year has reaffirmed my belief in India’s \ngrowth story and in the role companies like BTL \nEPC are poised to play in shaping that future.\nWe are witnessing a remarkable transformation. \nIndia is not only dreaming bigger but building \nfaster. With the nation set to become a  \nUSD 5 Trillion economy in a few years and",
+      "To expand aggressively implies that \nwe generate sub-average realisations \nor nurse large unutilised capacity \nuntil the market growth caught up our \ninstalled base. We believe that steady \ngrowth is safe, protecting stakeholder \ninterests. We will balance caution with \naggression (strategic aggression and \ntactical conservatism), focus on capital \ninvestments generating an attractively \nshort-term payback, maximise cash flows over mere paper profits and work \nwith an under-borrowed Balance Sheet.\nStakeholder relevance: We prioritise \nthe well-being of all stakeholders. Our",
+      "retained its national leadership in the space of Bulk \nMaterial Handling Systems (conveyor system) \nincluding the supply of underground mining \nconveyor systems, marked by competencies in the \nfield of design and engineering, manufacturing, \nproject management, and fund flow management.\nThe Company balanced its business momentum \nwhile creating a new foundation that will empower \nthe Company towards the next growth phase. The \nfact that the Company could report revenue growth \nof 22%, EBITDA growth of 21%, PAT growth of 41%  \nand win new contracts (the largest in its existence)",
+      "by the fact that the Indian government announced \nthe largest infrastructure building outlay in the \nlast three Union Budgets (2023-24, 2024-25 and \n2025-26), particularly in the area of coal-based \npower plants and the modernisation of steel plants, \nindicating that growth of the country would now be \ndriven by proactive infrastructure expansion. In this \nenvironment, there will be a priority to be growth-\nready through credentials, effective project bidding \nand timely projects completion. \nDuring the last financial year, your Company \nseeded its growth foundation to graduate to the"
+    ],
+    "rag_type": "fusion",
+    "latency": 1.7868221000535414,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when there is relevant information available in the retrieved contexts about the company's growth."
+    }
+  },
+  {
+    "question": "What is the total income growth from FY 2023-24 to FY 2024-25?",
+    "ground_truth": "Increase from 64525.98 to 78604.24",
+    "answer": "Not found in document.",
+    "contexts": [
+      "Year FY 23 FY 24 FY 25 \nRevenue growth (%) 60 23 22\nPAT growth (%) 154 120 41\nCredit rating  \nYear FY 23 FY 24 FY 25 \nCredit rating Acuite BBB Acuite  BBB CRISIL BBB+\nBig picture: The big picture message is that BTL \nEPC reported high growth without compromising its \nfundamentals during the year under review. The all-\nround growth was the result of the Company seeking \nto prioritise controlled momentum without diluting \nhigh operational and financial benchmarks. \n70  |  BTL EPC L TD Annual Report 2024- 25  |  71\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "Working capital intensity \nYear FY 23 FY 24 FY 25\nWorking capital (cash credit) \nuse as % of total sanction  89  81 62\nReceivable days  131  138 130\nDebt status \nYear FY 23 FY 24 FY 25\nTotal debt (H Crore) 117.14 136.98 121.58\nDebt-equity ratio  0.51 0.51 0.37\n72  |  BTL EPC L TD Annual Report 2024- 25  |  73\nCorporate Overview Statutory Reports Financial Statements LTD",
+      "supported by a consistent focus on \ntimely execution and the closure of \nprojects, with an increasing number \nof contracts and larger project sizes \ncontributing to a better absorption \nof fixed costs. A prudent mix of \nvolume-driven economies, resource \noptimisation and activity-based costing \nsustained margins, positioning the \nCompany among the most competitive \nplayers in the countries heavy \nengineering space.Profitable growth\nYear FY 23 FY 24 FY 25 \nRevenue growth (%) 60 23 22\nPAT growth (%) 154 120 41\nCredit rating  \nYear FY 23 FY 24 FY 25",
+      "existing as well as potential clients \nhas already been released or is in the \nprocess of being issued, providing a \nfoundation for opportunities. Building \non this momentum, the Company has \nset an ambitious target of achieving \nrevenues of over H2,000 + Crore in \nthe next three years, supported by a \nsustainable EBITDA margin of more \nthan 15%.\nSourab Kumar Jha,   \nChief Financial Officer Year FY 23 FY 24 FY 25\nEBITDA as on % of revenues 9.64 13.6 13.4\nWorking capital intensity \nYear FY 23 FY 24 FY 25\nWorking capital (cash credit) \nuse as % of total sanction  89  81 62",
+      "Year  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nAverage age  48  41  41  39\nWomen employees as % of total employees          \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nWomen employees \nas  a % of total \nemployees   2.07  1.73  2.13  2.93 \nEmployee productivity            \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nRevenue per \nemployee ( H Lacs)   56  90  105  109\nPeople cost              \nYear  FY 2021-22 FY 2022-23 FY 2023-24 FY 2024-25\nPeople cost as a % \nof revenues  from \noperation8.1 6.1 5.4 5.4\n88  |  BTL EPC L TD Annual Report 2024- 25  |  89",
+      "31st March, 2025For the Year ended  \n31st March 2024\nInterest income\nInterest on Bank & Other deposits 253.07 306.47\nInterest on Loan 12.19 11.25\n Sub-total 265.26 317.72\nOthers\nLiabilities no longer required written back 5.50 17.61\nFair value gain/(loss) on Financial Instruments classified as FVTPL (Net) 4.42 3.83\nRent received 22.28 18.84\nProfit on sale of Investment 0.18 -\nMiscellaneous income 47.14 38.86\n Sub-total 79.52 79.14\nOther Income Total 344.78 396.86"
+    ],
+    "rag_type": "fusion",
+    "latency": 0.6584072000114247,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth is provided and can be calculated from the retrieved contexts."
+    }
+  },
+  {
+    "question": "What is the difference in profit after tax between FY 2023-24 and FY 2024-25?",
+    "ground_truth": "Increase from 3759.93 to 5287.20",
+    "answer": "Not found in document",
+    "contexts": [
+      "31st March 2024\nProfit from before income tax expense 7,228.90 5,429.20\nIncome Tax rate* 34.94% 29.12%\nEstimated Income Tax Expense 2,525.78 1,580.98\nTax effect of adjustments to reconcile expected Income tax expense to reported \nIncome tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nTax Rate difference on certain items - 68.32\nTax relating to earlier years (147.45) -\nOthers (488.27) 86.74\n(549.66) 156.51\nIncome tax expense in Statement of Profit & Loss 1,976.12 1,737.49",
+      "coverage ratio of 3.38x \nfor FY 2024-25, which is \nimproved by 0.63x.\n2.19\n2.73\n3.36\nFY22 FY23 FY24 FY25Profit after tax  \n(H in cr)\n6.71\nMeaning  \nThe amount left after a \ncompany has paid all \nits operating and non-\noperating expenditures, \nother liabilities, and taxes \nis known as profit after \ntax. This profit is either \nallocated to the entity’s \nshareholders as dividend or \nheld in reserve as retained \nprofit.\nImportance \nProfit after tax represents \nthe actual profit a company \nearns in a financial year. It \nreflects the cost structure, \nbusiness model, and \noverall competitiveness.",
+      "Income tax expense\nExpenses that are not deductible in determining taxable profit 86.06 1.45\nEffect of change in tax rate - 68.32\nTax relating to earlier years (147.45) -\nOthers (500.55) 66.83\n(561.94) 136.60\nIncome tax expense in Statement of Profit & Loss 1,976.18 1,737.43\n*Applicable\tIncome\tTax\trate\tfor\tFinancial\tYear\tending\t31st\tMarch,\t2025\tis\t34.944%\tand\t31st\tMarch,\t2024\tis\t29.12%.\n42. Other Comprehensive Income (H in Lacs)\nParticulars For the year ended  \n31st March, 2025For the Year ended  \n31st March 2024\nItems that will not be reclassified to profit or loss",
+      "ash handling solutions, and resilient \nsteel plant infrastructure each vital to \nsupporting modern industry.Financial analysis \nBalance sheet \n Total non-current assets for FY 2024-\n25 stood at H273 Crore compared to \nH215 Crore in FY 2023-24.  Profit and loss statement \n Revenues increased 22% to H782.59 \nCrore in FY 2024-25 compared to \nH641.29 Crore in FY 2023-24. \n EBITDA increased 20% to H105.12 \nCrore in FY 2024-25 compared to \nH87.64 Crore in FY 2023-24. \n Profit after tax increased by 41% \nto H52.87 Crore in FY 2024-25 compared to H37.60 Crore in \nFY 2023-24.",
+      "Profit before Tax 7,228.90 5,429.45\nTax Expense: 41\n Current Tax 2,344.26 1,335.82\n Deferred Tax (368.14) 401.67\nTotal Tax Expenses 1,976.12 1,737.49\nProfit after Tax (C) 5,252.78 3,691.96\nOther Comprehensive Income\nItems that will not be reclassified to profit or loss\na) Remeasurement of defined benefit plan (99.55) 0.05\nb) Income tax relating to above items 34.78 (0.02)\nOther Comprehensive Income for the Year (Net of Tax) (D) 42 (64.77) 0.03\nTotal Comprehensive Income for the year (C+D) 5,188.01 3,691.99\nEarnings per Equity Shares of par value of K 10 each 43",
+      "Deferred Tax (368.08) 401.61\nTotal Tax Expenses 1,976.18 1,737.43\nProfit after Tax (C) 5,287.20 3,759.93\nOther Comprehensive Income\nItems that will not be reclassified to profit or loss\na) Remeasurement of defined benefit plan (99.55) 0.05\nb) Income tax relating to above items 34.78 (0.02)\nOther Comprehensive Income for the Year (Net of Tax) (D) 42 (64.77) 0.03\nTotal Comprehensive Income for the Year C+D) 5,222.43 3,759.96\nEarnings per Equity Shares of par value of K 10 each 43\nBasic Earnings Per Share (H) 55.70 31.11\nDiluted Earnings Per Share (H) 55.70 31.11\nBasis of Accounting 2"
+    ],
+    "rag_type": "fusion",
+    "latency": 4.290973099996336,
+    "evaluation": {
+      "verdict": "incorrect",
+      "score": 0.0,
+      "reason": "The model answer states 'Not found in document' when the ground truth is clearly provided in the retrieved contexts."
+    }
+  }
+]
